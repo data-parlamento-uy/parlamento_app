@@ -13,25 +13,26 @@
 
 ActiveRecord::Schema.define(version: 20141018163917) do
 
-  create_table "comisiones", force: true do |t|
-    t.string  "nombre"
-    t.integer "cuerpo"
+  create_table "comission_participants", force: true do |t|
+    t.integer "comission_id"
+    t.integer "legislator_id"
+    t.string  "extra_info"
   end
 
-  create_table "comisiones_integrantes", force: true do |t|
-    t.integer "legislador_id"
-    t.integer "comision_id"
-    t.string  "puesto"
+  create_table "comissions", force: true do |t|
+    t.string "name"
+    t.string "chamber"
   end
 
-  create_table "legisladores", force: true do |t|
-    t.string  "nombre"
-    t.integer "cuerpo"
-    t.integer "partido"
+  create_table "legislators", force: true do |t|
+    t.string  "first_name"
+    t.string  "last_name"
+    t.integer "political_party_id"
+    t.string  "chamber"
   end
 
-  create_table "partidos", force: true do |t|
-    t.string "nombre"
+  create_table "political_parties", force: true do |t|
+    t.string "name"
   end
 
 end

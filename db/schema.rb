@@ -13,6 +13,9 @@
 
 ActiveRecord::Schema.define(version: 20141018163917) do
 
+  # These are extensions that must be enabled in order to support this database
+  enable_extension "plpgsql"
+
   create_table "comission_participants", force: true do |t|
     t.integer "comission_id"
     t.integer "legislator_id"

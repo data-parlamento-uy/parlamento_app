@@ -1,18 +1,16 @@
 <!-- #### MENU #### -->
-<nav class="top-bar" data-topbar role="navigation">
-  <ul class="title-area">
-    <li class="name">
-      <%= image_tag 'logo.png', alt: 'Logo Ágora' %>
-    </li>
-  </ul>
-
-  <section class="top-bar-section">
-    <!-- Right Nav Section -->
-    <ul class="right menu-centrado">
-      <li class="active"><a href="#">parlamento</a></li>
-      <li><a href="#">agenda</a></li>
-      <li><a href="#">comisiones</a></li>
-      <li><a href="#"><%= image_tag 'lupa.png' %><input type="text" placeholder="buscar"></a></li>
-    </ul>
-  </section>
-</nav>
+<div class="small-12 cabezal">
+    <div class="large-4 columns title-area">
+      <%= image_tag 'logo.png', alt:"Logo Ágora"%>
+    </div>
+    <div class="large-7 columns large-offset-1 menu-centrado text-right">
+      <ul class="button-group menu">
+        <li><%= link_to 'inicio', root_path, class: class_for_menu_link('home', controller_name) %></li>
+        <li><a href="parlamento.html" class="boton margen-derecha">parlamento</a></li>
+        <li><a href="#" class="boton margen-derecha">agenda</a></li>
+        <li><a href="#" class="boton margen-derecha">comisiones</a></li>
+        <li><a href="#"><%= image_tag 'lupa.png' %><input type="text" placeholder="buscar"></a></li>
+        <li></li>
+      </ul>
+    </div>
+</div>

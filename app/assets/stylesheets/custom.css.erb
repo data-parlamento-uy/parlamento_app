@@ -1,9 +1,14 @@
 body {
   background: white;
   color: #666666;
+  font-weight: 300;
 }
 p{
     font-weight: 300;
+}
+.cabezal{
+    background-color: #ffffff;
+    padding: 20px;
 }
 .top-bar{
     padding: 20px;
@@ -27,17 +32,45 @@ p{
     background: white;
 }
 .menu-centrado{
-    margin-top: 20px !important;
-    margin-right: 40px !important;
+    margin-top: 30px;
 }
-.top-bar-section ul li > a{
-    font-size: 1em;
+.menu{
     font-weight: 300;
 }
-.top-bar-section ul img{
+.boton{
+    color:#9d9d9c;
+}
+.boton.active, .boton:hover {
+    color:#e86d72;
+}
+.margen-derecha{
+    margin-right: 40px;
+}
+.margen-izquierda{
+    margin-left: 40px;
+}
+.margen-izquierda-mitad{
+    margin-left: 10px;
+}
+.menu li:last-child{
+    margin-right: 0 !important;
+}
+.menu input{
+    font-size: 1em;
+    font-weight: 300;
+    border: none;
+    box-shadow: none;
+    display: inline;
+    width: 150px;
+    margin-left: 5px;
+    margin-bottom: 0;
+}
+.menu  input[type="text"]:focus {
+    box-shadow: none;
+}
+.menu img{
     width: 18px;
     height: 18px;
-    margin-right: 5px;
 }
 .top-bar input{
     font-size: 1em;
@@ -50,6 +83,21 @@ p{
 }
 .top-bar  input[type="text"]:focus {
     box-shadow: none;
+}
+.menu ul li{
+    float: left;
+    list-style-type: none;
+    margin-left: 30px;
+    padding: 20px;
+}
+.camara{
+    margin-top: -40px;
+    margin-bottom: -10px;
+}
+.camara ul li{
+    float: left;
+    list-style-type: none;
+    padding: 0px;
 }
 
 .header{
@@ -68,7 +116,7 @@ p{
     font-size:1.2em;
 }
 .representacion{
-    height: 700px;
+    height: 740px;
     padding: 1% 0;
     background: #f7f7f8;
 }
@@ -110,7 +158,7 @@ p{
     font-family: 'roboto_slabthin';
 }
 .representacion hr{
-    margin: 0.7rem 0 1.1875rem;
+    margin: 1.3rem 0 1.4875rem;
 }
 
 .cargo-referencia{
@@ -120,6 +168,7 @@ p{
 
 .fichas{
     background: #f7f7f8;
+    padding-top: 20px;
 }
 .fichas h4{
     font-family: 'roboto_slabregular';
@@ -158,9 +207,14 @@ p{
     padding-top: 40px;
 }
 
+.temas h3{
+    font-family: 'roboto_slabregular';
+}
+
 .temas h4{
     margin-top: 40px;
     font-family: 'roboto_slabregular';
+    line-height: 0.5em;
 }
 .temas ul{
     list-style: none;
@@ -176,7 +230,6 @@ p{
 }
 .footer{
     padding:3.5em;
-    margin-top: 50px;
     height: 150px;
     background: #74c5cd;
     color: white;
@@ -191,6 +244,100 @@ p{
 strong{
     font-weight: 600;
 }
+
+.parlamento{
+    height: 800px !important;
+    background-color: red;
+}
+.foto_perfil{
+    border-radius: 100px;
+}
+
+.ficha-parlamentario{
+    padding-top: 1em !important;
+}
+.datos-parlamentario{
+    margin-top: -50px;
+}
+.bandera_derecha{
+    width: 80px;
+    height: 80px;
+}
+.nombre{
+    line-height: 1;
+}
+.iconos{
+    margin-top: -10px !important;
+}
+.iconos ul{
+    margin-left: -0.9375rem;
+}
+.iconos li{
+    float:left;
+    list-style-type: none;
+}
+.iconos-expertise{
+    width: 32px;
+    height: 32px;
+    margin-right: 6px;
+}
+.margen-derecho{
+    padding-right: 0em !important;
+}
+.icono-correo{
+    width: 22px;
+    height: 27px;
+    margin-right: 5px;
+}
+.icono-fb{
+    width: 22px;
+    height: 27px;
+    margin-right: 5px;
+}
+.icono-tw{
+    width: 22px;
+    height: 27px;
+    margin-right: 5px;
+}
+.dato-ficha{
+    /*    margin-top: -1.8em;*/
+    margin-bottom: 0;
+}
+.valor-parlamentario-arriba{
+    font-size: 1.4rem;
+    color:#222222;
+    font-family: 'roboto_slabregular';
+    margin-top: 30px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+.valor-parlamentario-abajo{
+    font-size: 1.4rem;
+    color:#222222;
+    font-family: 'roboto_slabregular';
+    margin-top: 10px;
+    line-height: 1;
+    margin-bottom: 0;
+}
+.ultimo-dato{
+    margin-bottom: 20px;
+}
+.filtro{
+    margin-bottom: 0px;
+}
+.filtro ul{
+    margin-bottom: 0.50em;
+}
+.label{
+    background-color: #ffffff;
+    color: #9d9d9c;
+    font-weight: 300;
+}
+.label:hover, .label:active {
+    background-color: #e86d72;
+    color: white;
+}
+
 @media only screen and (min-width:1025px){
 .row {
       max-width: 100%; }

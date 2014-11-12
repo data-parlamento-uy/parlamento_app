@@ -1,0 +1,90 @@
+<% if legislator %>
+<div class="large-4 medium-6 small-12 columns">
+  <div class="ficha">
+    <div class="bandera_derecha right"><%= image_tag right_flag_image(legislator.political_party.name) %></div>
+    <div class="row ficha-parlamentario">
+      <!-- #### FOTO PERFIL ####-->
+      <div class="small-4 columns">
+        <%= image_tag legislator.picture_url, class: 'foto_perfil' %>
+            </div>
+            <!-- #### NOMBRE E ICONOS ####-->
+            <div class="small-8 columns end datos-parlamentario">
+              <!-- #### NOMBRE ####-->
+              <div class="row"><h4 class="nombre"><%= legislator.full_name.camelcase %></h4></div>
+              <!-- #### DEPARTAMENTO ####-->
+              <div class="row">
+                <p class="deptos"><%= legislator.state.try(:upcase) %></p>
+              </div>
+              <!-- #### ICONOS ####-->
+              <div class="row iconos">
+                <!-- #### EXPERTISE ####-->
+                <div class="small-8 columns margen-derecho">
+                  <ul>
+                    <li><%= image_tag 'icono_int.svg', class: 'iconos-expertise' %></li>
+                    <li><%= image_tag 'icono_def.svg', class: 'iconos-expertise' %></li>
+                    <li><%= image_tag 'icono_dep.svg', class: 'iconos-expertise' %></li>
+                    <li><%= image_tag 'icono_sal.svg', class: 'iconos-expertise' %></li>
+                  </ul>
+                                            </div>
+                                            <!-- #### CONTACTO ####-->
+                                            <div class="small-4 columns margen-derecho">
+                                              <ul>
+                                                <li><a href="#"><%= image_tag 'icono_correo.svg', class: 'icono-correo' %></a></li>
+                                                      <li><a href="#"><%= image_tag 'icono_fb.svg', class: 'icono-fb' %></a></li>
+                                                            <li><a href="#"><%= image_tag 'icono_tw.svg', class: 'icono-tw' %></a></li>
+                                                                  </ul>
+                                                                  </div>
+                                                                  </div>
+                                                                  </div>
+                                                                  </div>
+                                                                  <!-- #### 1RA LINEA DE DATOS ####-->
+                                                                  <div class="row">
+                                                                    <div class="small-4 columns">
+                                                                      <p class="valor-parlamentario-arriba">95%</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="valor-parlamentario-arriba">140</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="valor-parlamentario-arriba">30</p>
+                                                                    </div>
+                                                                  </div>
+                                                                  <!-- #### 2DA LINEA DE DATOS ####-->
+                                                                  <div class="row">
+                                                                    <div class="small-4 columns">
+                                                                      <p class="dato-ficha">asistencia</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="dato-ficha">iniciativas</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="dato-ficha">intervenciones</p>
+                                                                    </div>
+                                                                  </div>
+                                                                  <!-- #### 3RA LINEA DE DATOS ####-->
+                                                                  <div class="row">
+                                                                    <div class="small-4 columns">
+                                                                      <p class="valor-parlamentario-abajo">$259.146</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="valor-parlamentario-abajo">2</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="valor-parlamentario-abajo">4</p>
+                                                                    </div>
+                                                                  </div>
+                                                                  <!-- #### 4TA LINEA DE DATOS ####-->
+                                                                  <div class="row">
+                                                                    <div class="small-4 columns">
+                                                                      <p class="dato-ficha">sueldo</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns">
+                                                                      <p class="dato-ficha">períodos</p>
+                                                                    </div>
+                                                                    <div class="small-4 columns ultimo-dato">
+                                                                      <p class="dato-ficha">viajes</p>
+                                                                    </div>
+                                                                  </div>
+                                                                  </div>
+                                                                  </div>
+<% end %>

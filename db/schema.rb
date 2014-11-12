@@ -30,8 +30,11 @@ ActiveRecord::Schema.define(version: 20141018163917) do
   create_table "legislators", force: true do |t|
     t.string  "first_name"
     t.string  "last_name"
+    t.string  "email"
+    t.string  "picture_url"
     t.integer "political_party_id"
     t.string  "chamber"
+    t.string  "state"
   end
 
   create_table "political_parties", force: true do |t|

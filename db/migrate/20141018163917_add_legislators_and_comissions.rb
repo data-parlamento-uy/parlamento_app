@@ -7,8 +7,11 @@ class AddLegislatorsAndComissions < ActiveRecord::Migration
     create_table :legislators do |t|
       t.string  :first_name
       t.string :last_name
+      t.string :email
+      t.string :picture_url
       t.integer :political_party_id
       t.string :chamber
+      t.string :state
     end
 
     create_table :comissions  do |t|

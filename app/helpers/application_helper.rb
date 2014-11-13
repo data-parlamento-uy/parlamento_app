@@ -4,6 +4,10 @@ module ApplicationHelper
     section == current_section ? 'boton margen-derecha active' : 'boton margen-derecha'
   end
 
+  def class_for_submenu_link(section, current_section)
+    section == current_section ? 'boton margen-izquierda active' : 'boton margen-izquierda'
+  end
+
   def right_flag_image(political_party)
     case political_party
       when 'partido nacional'      then 'bandera_pn_derecha.svg'

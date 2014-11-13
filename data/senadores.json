@@ -5,7 +5,7 @@
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00479.jpg", 
     "nombre": "danilo", 
     "partido": "partido frente amplio", 
-    "titulo": "Vicepresidente de la Rep\u00c3\u00bablica, Presidente de la Asamblea General y de la C\u00c3\u00a1mara de Senadores"
+    "titulo": "Vicepresidente de la República, Presidente de la Asamblea General y de la Cámara de Senadores"
   }, 
   {
     "apellido": "abreu", 
@@ -22,14 +22,14 @@
     "partido": "partido frente amplio"
   }, 
   {
-    "apellido": "amor\u00e3\u008dn", 
+    "apellido": "amorín", 
     "email": "jamorin@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot01044.jpg", 
-    "nombre": "jos\u00e3\u00a9", 
+    "nombre": "josé", 
     "partido": "partido colorado"
   }, 
   {
-    "apellido": "bar\u00e3\u0081ibar", 
+    "apellido": "baráibar", 
     "email": "cbaraibar@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00759.jpg", 
     "nombre": "carlos", 
@@ -43,7 +43,7 @@
     "partido": "partido frente amplio"
   }, 
   {
-    "apellido": "bordaberry herr\u00e3\u0081n", 
+    "apellido": "bordaberry herrán", 
     "email": "pbordaberry@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00922.jpg", 
     "nombre": "juan pedro", 
@@ -88,7 +88,7 @@
     "apellido": "gallo imperiale", 
     "email": "lgallo@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02920.jpg", 
-    "nombre": "luis jos\u00e3\u00a9", 
+    "nombre": "luis josé", 
     "partido": "partido frente amplio"
   }, 
   {
@@ -106,7 +106,7 @@
     "partido": "partido nacional"
   }, 
   {
-    "apellido": "larra\u00e3\u0091aga", 
+    "apellido": "larrañaga", 
     "email": "jlarranaga@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot04500.jpg", 
     "nombre": "jorge", 
@@ -120,7 +120,7 @@
     "partido": "partido frente amplio"
   }, 
   {
-    "apellido": "mart\u00e3\u008dnez villaamil", 
+    "apellido": "martínez villaamil", 
     "email": "dmartinez@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot07889.jpg", 
     "nombre": "daniel carlos", 
@@ -162,7 +162,7 @@
     "partido": "partido colorado"
   }, 
   {
-    "apellido": "penad\u00e3\u0089s", 
+    "apellido": "penadés", 
     "email": "gpenades@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot02901.jpg", 
     "nombre": "gustavo", 
@@ -207,14 +207,14 @@
     "apellido": "topolansky", 
     "email": "ltopolansky@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot05246.jpg", 
-    "nombre": "luc\u00e3\u00ada", 
+    "nombre": "lucía", 
     "partido": "partido frente amplio"
   }, 
   {
     "apellido": "viera duarte", 
     "email": "tviera@parlamento.gub.uy", 
     "foto": "http://www.parlamento.gub.uy/htmlstat/pl/legisl/fotos/Fot00196.jpg", 
-    "nombre": "tabar\u00e3\u00a9", 
+    "nombre": "tabaré", 
     "partido": "partido colorado"
   }
 ]

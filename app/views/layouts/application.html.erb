@@ -7,13 +7,20 @@
   <%= stylesheet_link_tag 'application' %>
   <%= javascript_include_tag 'modernizr' %>
 </head>
-<body>
+<body class="<%= controller_name %>">
 
 <%= render partial: 'shared/menu' %>
 
 <%= yield %>
 
 <%= render partial: 'shared/footer' %>
+
+<%= javascript_include_tag 'application' %>
+<script>
+    $(document).foundation();
+</script>
+
+
 
 </body>
 </html>

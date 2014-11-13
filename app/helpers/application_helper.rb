@@ -11,7 +11,7 @@ module ApplicationHelper
   def right_flag_image(political_party)
     case political_party
       when 'partido nacional'      then 'bandera_pn_derecha.svg'
-      when 'partido colorado'      then 'bandera_pn_derecha.svg'
+      when 'partido colorado'      then 'bandera_pc_derecha.svg'
       when 'partido independiente' then 'bandera_pi_derecha.svg'
       when 'partido frente amplio' then 'bandera_fa_derecha.svg'
     end

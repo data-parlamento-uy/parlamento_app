@@ -7,7 +7,7 @@ class Legislator < ActiveRecord::Base
   scope :in_senadores, -> { where(chamber: CHAMBERS[:senadores]) }
 
   def full_name
-    "#{last_name}"
+    "#{first_name} #{last_name}"
   end
 
   def chamber_and_state_info

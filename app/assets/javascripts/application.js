@@ -14,4 +14,6 @@
 //= require jquery_ujs
 //= require foundation.min
 //= require jquery.calendario
+//= require jquery.mixitup
 //= require data
+//= require legislators

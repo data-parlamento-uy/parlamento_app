@@ -49,6 +49,13 @@ p{
 .margen-izquierda{
     margin-left: 40px;
 }
+.margen-superior{
+    margin-top: 100px;
+}
+.margen-inferior{
+    margin-bottom: 30px;
+}
+
 .margen-izquierda-mitad{
     margin-left: 10px;
 }
@@ -336,6 +343,43 @@ strong{
 .label:hover, .label:active, .label.active {
     background-color: #e86d72;
     color: white;
+}
+
+.gusta{
+    width: 36px;
+    height: 33px;
+    margin-bottom: 1.5em;
+    background: url(<%= asset_path('gusta.png') %>) 0 0;
+    background-size: 36px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.gusta:hover, .gusta.active{
+    width: 36px;
+    height: 33px;
+    margin-bottom: 1.5em;
+    background: url(<%= asset_path('gusta.png') %>) 0 -33px;
+    background-size: 36px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.no-gusta{
+    width: 36px;
+    height: 33px;
+    margin-bottom: 1.5em;
+    background: url(<%= asset_path('no-gusta.png') %>)0 0;
+    background-size: 36px;
+    background-repeat: no-repeat;
+    cursor: pointer;
+}
+.no-gusta:hover, .no-gusta.active{
+    width: 36px;
+    height: 33px;
+    margin-bottom: 1.5em;
+    background: url(<%= asset_path('no-gusta.png') %>) 0 -39px;
+    background-size: 36px;
+    background-repeat: no-repeat;
+    cursor: pointer;
 }
 
 @media only screen and (min-width:1025px){

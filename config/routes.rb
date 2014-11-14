@@ -7,5 +7,8 @@ Rails.application.routes.draw do
       get 'senadores'
     end
   end
+
+  resources :comissions, only: [:index, :show]
+  resources :sessions, only: [:index]
 end
 

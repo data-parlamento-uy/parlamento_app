@@ -17,3 +17,4 @@
 //= require jquery.mixitup
 //= require data
 //= require legislators
+//= require sessions

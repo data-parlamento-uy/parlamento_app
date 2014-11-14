@@ -2,2662 +2,773 @@
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "caicss@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "BARÁIBAR, Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PASQUET IRIBARNE, Ope (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CONDE, Roberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LACALLE  HERRERA, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LARRAÑAGA, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Jueves, a la hora 17, durante los primeros 18 días de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Vladimir De Bellis Martínez (Secretario) (Internos 2150/2405)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Rodolfo Lutegui (Prosecretario) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ASUNTOS INTERNACIONALES"
+  "email": "caicrr@parlamento.gub.uy", 
+  "miembros": [
+   "TROBO, Jaime Mario (Presidente)", 
+   "MARTÍNEZ HUELMO, Rubén (Vicepresidente)", 
+   "GARINO GRUSS, Juan Manuel", 
+   "LAURNAGA, María Elena", 
+   "MAHÍA, José Carlos", 
+   "MAÑANA, Daniel", 
+   "Delegados", 
+   "FACELLO, Guillermo", 
+   "GRILLE, Leandro", 
+   "GROBA ARRIONDO, Oscar", 
+   "IBARRA, Doreen Javier", 
+   "MICHELINI, Felipe", 
+   "POSADA, Iván", 
+   "PUIG, Luis", 
+   "SEMPRONI, Víctor", 
+   "URIARTE ARAÚJO, Daoiz"
+  ], 
+  "nombre": "ASUNTOS INTERNACIONALES", 
+  "reuniones": "Miércoles, hora 13:30. (Del 1º al 18).", 
+  "secretaria": [
+   "Gonzalo Legnani (Secretario) (Internos 3077)", 
+   "Daniel Conde Montes de Oca (Prosecretario) (Internos 3077)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "caintcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "SEMPRONI, Víctor (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LERETÉ SALCEDO, Orlando Darío (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARDOSO, Germán", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes, hora 13:00. (Del 1º al 18 de cada mes).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Roberto Juri (Secretario) (Internos 2477/3056)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Héctor Amegeiras (Prosecretario) (Internos 2477/3056)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Francisco Ortiz (Prosecretario) (Internos 3056/2477)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ASUNTOS INTERNOS"
+  "email": "caintcrr@parlamento.gub.uy", 
+  "miembros": [
+   "SEMPRONI, Víctor (Presidente)", 
+   "LERETÉ SALCEDO, Orlando Darío (Vicepresidente)", 
+   "CARDOSO, Germán", 
+   "Delegados", 
+   "FACELLO, Guillermo", 
+   "POSADA, Iván"
+  ], 
+  "nombre": "ASUNTOS INTERNOS", 
+  "reuniones": "Martes, hora 13:00. (Del 1º al 18 de cada mes).", 
+  "secretaria": [
+   "Roberto Juri (Secretario) (Internos 2477/3056)", 
+   "Héctor Amegeiras (Prosecretario) (Internos 2477/3056)", 
+   "Francisco Ortiz (Prosecretario) (Internos 3056/2477)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ccclgacrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "BORSARI BRENNA, Gustavo (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CANTERO PIALI, Fitzgerald", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CERSÓSIMO, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ITURRALDE VIÑAS, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MUJICA, Gonzalo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ORRICO, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TOURNÉ, Daisy", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Los Miércoles de 10:00 a 12:00 horas. (durante todo el mes).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "María Eugenia Castrillón (Prosecretaria) (Internos 2488/2543)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "CONSTITUCION"
+  "email": "ccclgacrr@parlamento.gub.uy", 
+  "miembros": [
+   "BORSARI BRENNA, Gustavo (Presidente)", 
+   "URIARTE ARAÚJO, Daoiz (Vicepresidente)", 
+   "CANTERO PIALI, Fitzgerald", 
+   "CERSÓSIMO, Gustavo", 
+   "ITURRALDE VIÑAS, Pablo", 
+   "MICHELINI, Felipe", 
+   "MUJICA, Gonzalo", 
+   "ORRICO, Jorge", 
+   "TOURNÉ, Daisy", 
+   "Delegados", 
+   "PEREIRA, Nicolás", 
+   "POSADA, Iván", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "CONSTITUCION", 
+  "reuniones": "Los Miércoles de 10:00 a 12:00 horas. (durante todo el mes).", 
+  "secretaria": [
+   "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
+   "María Eugenia Castrillón (Prosecretaria) (Internos 2488/2543)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cdncss@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "ABREU, Sergio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "NIN NOVOA, Rodolfo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BARÁIBAR, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GALLO IMPERIALE, Luis José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LACALLE  HERRERA, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ROSADILLA, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SARAVIA, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "VIERA DUARTE, Tabaré", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Lunes a las 17 horas, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "María Victoria Lumaca (Secretaria) (Internos 2151)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "DEFENSA NACIONAL"
+  "email": "cdncrr@parlamento.gub.uy", 
+  "miembros": [
+   "ROMBYS, Gustavo (Presidente)", 
+   "AMY, José A. (Vicepresidente)", 
+   "GARCÍA, Javier", 
+   "RODRÍGUEZ GALVEZ, Carlos", 
+   "Delegados", 
+   "BANGO, Julio", 
+   "FACELLO, Guillermo", 
+   "IBARRA, Doreen Javier", 
+   "PEREIRA, Nicolás", 
+   "POZZI, Jorge", 
+   "RADÍO, Daniel", 
+   "SARAVIA, Pedro", 
+   "SEMPRONI, Víctor", 
+   "TROBO, Jaime Mario", 
+   "URIARTE ARAÚJO, Daoiz", 
+   "VARELA NESTIER, Carlos"
+  ], 
+  "nombre": "DEFENSA NACIONAL", 
+  "reuniones": "Martes, hora 13:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Beatriz Méndez (Secretaria) (Internos 2723/3070/3071)", 
+   "Guillermo Geronés (Prosecretario) (Internos 3070/3071)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cdhcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "ESPINOSA, Gustavo A. (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MINETTI, Orquídea (Vicepresidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "NOVALES, Gonzalo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PAYSSÉ, Daniela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LAURNAGA, María Elena", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PIÑEYRÚA OLMOS, Ana Lía", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 12:30. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Cristina Piuma (Secretaria) (Internos 3044)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Lourdes Zícari (Prosecretaria) (Internos 3044)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "DERECHOS HUMANOS"
+  "email": "cdhcrr@parlamento.gub.uy", 
+  "miembros": [
+   "ESPINOSA, Gustavo A. (Presidente)", 
+   "MINETTI, Orquídea (Vicepresidenta)", 
+   "NOVALES, Gonzalo", 
+   "PAYSSÉ, Daniela", 
+   "Delegados", 
+   "GROBA ARRIONDO, Oscar", 
+   "IBARRA, Doreen Javier", 
+   "LAURNAGA, María Elena", 
+   "MICHELINI, Felipe", 
+   "PEREIRA, Nicolás", 
+   "PIÑEYRÚA OLMOS, Ana Lía", 
+   "PUIG, Luis", 
+   "RADÍO, Daniel", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "DERECHOS HUMANOS", 
+  "reuniones": "Miércoles, hora 12:30. (Del 1º al 18).", 
+  "secretaria": [
+   "Cristina Piuma (Secretaria) (Internos 3044)", 
+   "Lourdes Zícari (Prosecretaria) (Internos 3044)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ceccrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "PEÑA FERNÁNDEZ, Daniel (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SABINI, Sebastián (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ARREGUI, Roque", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARAM, Rodolfo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "DE LEÓN, Walter", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MONTANER, Martha", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GARCÍA, Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GRILLE, Leandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MAHÍA, José Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 10:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Graciela Morales (Secretaria) (Internos 2246/2260)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Adriana Cardeillac (Prosecretaria)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "EDUCACION Y CULTURA"
+  "email": "ceccrr@parlamento.gub.uy", 
+  "miembros": [
+   "PEÑA FERNÁNDEZ, Daniel (Presidente)", 
+   "SABINI, Sebastián (Vicepresidente)", 
+   "ARREGUI, Roque", 
+   "CARAM, Rodolfo", 
+   "DE LEÓN, Walter", 
+   "MONTANER, Martha", 
+   "Delegados", 
+   "FACELLO, Guillermo", 
+   "GARCÍA, Mario", 
+   "GRILLE, Leandro", 
+   "IBARRA, Doreen Javier", 
+   "MAHÍA, José Carlos", 
+   "RADÍO, Daniel"
+  ], 
+  "nombre": "EDUCACION Y CULTURA", 
+  "reuniones": "Miércoles, hora 10:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Graciela Morales (Secretaria) (Internos 2246/2260)", 
+   "Adriana Cardeillac (Prosecretaria)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cgapcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "BISTOLFI, Marcelo (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PERRACHÓN, Mario (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CASAS, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "DÁVILA, Hugo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GOÑI ROMERO, Rodrigo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PARDIÑAS, Yeru", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes y Miércoles, hora 14:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Virginia Chiappara (Secretaria)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Angela Bernini (Prosecretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "GANADERIA"
+  "email": "cgapcrr@parlamento.gub.uy", 
+  "miembros": [
+   "BISTOLFI, Marcelo (Presidente)", 
+   "PERRACHÓN, Mario (Vicepresidente)", 
+   "CASAS, Alberto", 
+   "DÁVILA, Hugo", 
+   "GOÑI ROMERO, Rodrigo", 
+   "PARDIÑAS, Yeru", 
+   "Delegados", 
+   "GROBA ARRIONDO, Oscar", 
+   "MICHELINI, Felipe", 
+   "POSADA, Iván", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "GANADERIA", 
+  "reuniones": "Martes y Miércoles, hora 14:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Virginia Chiappara (Secretaria)", 
+   "Angela Bernini (Prosecretaria) (Internos 2246/2260/2461)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "chcss@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "GALLINAL, Francisco (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BARÁIBAR, Carlos (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ABREU, Sergio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "AMORÍN, José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "HEBER, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TAJAM, Héctor", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Jueves hora 10:00.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Dinorah Amato (Secretaria) (Internos 2153/2405)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Alicia Hackenbruch (Prosecretaria) (Internos 2405)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "HACIENDA"
+  "email": "chcrr@parlamento.gub.uy", 
+  "miembros": [
+   "PEREYRA, Susana (Presidenta)", 
+   "PIÑEYRÚA OLMOS, Ana Lía (Vicepresidenta)", 
+   "ASTI, Alfredo", 
+   "BERNINI, Gustavo", 
+   "CARDOSO, José Carlos", 
+   "GANDINI, Jorge", 
+   "GROBA ARRIONDO, Oscar", 
+   "PÉREZ GONZÁLEZ, Pablo", 
+   "POSADA, Iván", 
+   "SÁNCHEZ, Alejandro", 
+   "SANDER, Richard", 
+   "Delegados", 
+   "ABDALA, Pablo", 
+   "GRILLE, Leandro", 
+   "IBARRA, Doreen Javier", 
+   "MONTANER, Martha", 
+   "PUIG, Luis", 
+   "URIARTE ARAÚJO, Daoiz", 
+   "YANES, Horacio"
+  ], 
+  "nombre": "HACIENDA", 
+  "reuniones": "Todos los miércoles, hora 10:00.", 
+  "secretaria": [
+   "Beatriz Méndez (Secretaria) (Internos 2723/3070/3071)", 
+   "Eduardo Sánchez (Prosecretario) (Internos 3070/3071)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ciecss@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ABREU, Sergio (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ANTOGNAZZA, Milton", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BORDABERRY HERRÁN, Juan Pedro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "HEBER, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ROSADILLA, Luis", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, a la hora 16, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Martín Secco (Secretario) (Internos 2187)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Rodolfo Lutegui (Prosecretario) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "INDUSTRIA"
+  "email": "ciemcrr@parlamento.gub.uy", 
+  "miembros": [
+   "VERRI, Walter (Presidente)", 
+   "VARELA NESTIER, Carlos (Vicepresidente)", 
+   "ALONSO, Verónica", 
+   "BATTISTONI, Julio", 
+   "CARBALLO DA COSTA, Felipe", 
+   "DELGADO, Alvaro", 
+   "Delegados", 
+   "ABDALA, Pablo", 
+   "GANDINI, Jorge", 
+   "MIER, Sergio", 
+   "PERDOMO GAMARRA, Alberto", 
+   "PEREIRA, Nicolás", 
+   "POSADA, Iván", 
+   "POZZI, Jorge", 
+   "SANDER, Richard", 
+   "SEMPRONI, Víctor"
+  ], 
+  "nombre": "INDUSTRIA", 
+  "reuniones": "Miércoles, hora 10. (Del 1º al 18).", 
+  "secretaria": [
+   "Doris Muñiz (Secretaria) (Internos 3070/3071)", 
+   "Ana Marcela Castrillón (Prosecretaria) (Internos 3070/3071)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cltcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "ABDALA, Pablo (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TIERNO, Martín (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "AMADO, Fernando", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "OLIVERA, Raúl", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "VIDALÍN, Carmelo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARBALLO DA COSTA, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GRILLE, Leandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ITURRALDE VIÑAS, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ORRICO, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POZZI, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes, hora 12:00 y Miércoles, hora 10:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Roberto Juri (Secretario) (Internos 2477/3056)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Francisco Ortiz (Prosecretario) (Internos 3056/2477)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "LEGISLACION DEL TRABAJO"
+  "email": "cltcrr@parlamento.gub.uy", 
+  "miembros": [
+   "ABDALA, Pablo (Presidente)", 
+   "TIERNO, Martín (Vicepresidente)", 
+   "AMADO, Fernando", 
+   "OLIVERA, Raúl", 
+   "PUIG, Luis", 
+   "VIDALÍN, Carmelo", 
+   "Delegados", 
+   "CARBALLO DA COSTA, Felipe", 
+   "FACELLO, Guillermo", 
+   "GRILLE, Leandro", 
+   "GROBA ARRIONDO, Oscar", 
+   "IBARRA, Doreen Javier", 
+   "ITURRALDE VIÑAS, Pablo", 
+   "ORRICO, Jorge", 
+   "POZZI, Jorge", 
+   "RADÍO, Daniel"
+  ], 
+  "nombre": "LEGISLACION DEL TRABAJO", 
+  "reuniones": "Martes, hora 12:00 y Miércoles, hora 10:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Roberto Juri (Secretario) (Internos 2477/3056)", 
+   "Francisco Ortiz (Prosecretario) (Internos 3056/2477)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cpcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GLOODTDOFSKY, Aníbal (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BEROIS QUINTEROS, Ricardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GRILLE, Leandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MIER, Sergio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "OTEGUI GRIEGO, Miguel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "UMPIÉRREZ, Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PAYSSÉ, Daniela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes, hora 14:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Doris Muñiz (Secretaria) (Internos 3070/3071)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Ana Marcela Castrillón (Prosecretaria) (Internos 3070/3071)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Eduardo Sánchez (Prosecretario) (Internos 3070/3071)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "PRESUPUESTOS"
+  "email": "cpcrr@parlamento.gub.uy", 
+  "miembros": [
+   "IBARRA, Doreen Javier (Presidente)", 
+   "GLOODTDOFSKY, Aníbal (Vicepresidente)", 
+   "BEROIS QUINTEROS, Ricardo", 
+   "GRILLE, Leandro", 
+   "MIER, Sergio", 
+   "OTEGUI GRIEGO, Miguel", 
+   "UMPIÉRREZ, Javier", 
+   "Delegados", 
+   "PAYSSÉ, Daniela", 
+   "PUIG, Luis", 
+   "RADÍO, Daniel", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "PRESUPUESTOS", 
+  "reuniones": "Martes, hora 14:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Doris Muñiz (Secretaria) (Internos 3070/3071)", 
+   "Ana Marcela Castrillón (Prosecretaria) (Internos 3070/3071)", 
+   "Eduardo Sánchez (Prosecretario) (Internos 3070/3071)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cspascrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "SANSEVERINO, Berta (Presidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BIANCHI, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CHIESA BRUNO, Antonio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PASSADA, Ivonne", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GARCÍA, Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GOÑI ROMERO, Rodrigo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GRILLE, Leandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TOURNÉ, Daisy", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes y Miércoles, hora 14:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Beatriz Guadalupe (Secretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Viviana Calcagno (Prosecretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "SALUD PUBLICA Y ASISTENCIA SOCIAL"
+  "email": "cspascrr@parlamento.gub.uy", 
+  "miembros": [
+   "SANSEVERINO, Berta (Presidenta)", 
+   "RADÍO, Daniel (Vicepresidente)", 
+   "BIANCHI, Daniel", 
+   "CHIESA BRUNO, Antonio", 
+   "PASSADA, Ivonne", 
+   "Delegados", 
+   "GARCÍA, Javier", 
+   "GOÑI ROMERO, Rodrigo", 
+   "GRILLE, Leandro", 
+   "IBARRA, Doreen Javier", 
+   "SANDER, Richard", 
+   "TOURNÉ, Daisy", 
+   "URIARTE ARAÚJO, Daoiz"
+  ], 
+  "nombre": "SALUD PUBLICA Y ASISTENCIA SOCIAL", 
+  "reuniones": "Martes y Miércoles, hora 14:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Beatriz Guadalupe (Secretaria) (Internos 2246/2260/2461)", 
+   "Viviana Calcagno (Prosecretaria) (Internos 2246/2260/2461)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "csscrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "MALLO, Alma (Presidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "VIVIÁN, Dionisio (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PERDOMO GAMARRA, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ABDALA, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ASTI, Alfredo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MAÑANA, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "OLIVERA, Raúl", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POZZI, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 14:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Pamela Klappenbach (Secretaria) (Internos 3060)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Héctor Amegeiras (Prosecretario) (Internos 2477/3056)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "SEGURIDAD SOCIAL"
+  "email": "csscrr@parlamento.gub.uy", 
+  "miembros": [
+   "MALLO, Alma (Presidenta)", 
+   "VIVIÁN, Dionisio (Vicepresidente)", 
+   "PERDOMO GAMARRA, Alberto", 
+   "Delegados", 
+   "ABDALA, Pablo", 
+   "ASTI, Alfredo", 
+   "FACELLO, Guillermo", 
+   "GROBA ARRIONDO, Oscar", 
+   "MAÑANA, Daniel", 
+   "OLIVERA, Raúl", 
+   "POZZI, Jorge", 
+   "RADÍO, Daniel"
+  ], 
+  "nombre": "SEGURIDAD SOCIAL", 
+  "reuniones": "Miércoles, hora 14:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Pamela Klappenbach (Secretaria) (Internos 3060)", 
+   "Héctor Amegeiras (Prosecretario) (Internos 2477/3056)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ctcopcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "POZZI, Jorge (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SARAVIA, Pedro (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CAGGIANI, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "NIFFOURI BLANCO, Amín", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEDREIRA, Guzmán", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SILVA, Rubenson", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MAHÍA, José Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes, hora 11:00 y Miércoles, hora 12:00.  (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Beatriz Guadalupe (Secretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Viviana Calcagno (Prosecretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "TRANSPORTE"
+  "email": "ctcopcrr@parlamento.gub.uy", 
+  "miembros": [
+   "POZZI, Jorge (Presidente)", 
+   "SARAVIA, Pedro (Vicepresidente)", 
+   "CAGGIANI, Daniel", 
+   "FACELLO, Guillermo", 
+   "NIFFOURI BLANCO, Amín", 
+   "PEDREIRA, Guzmán", 
+   "SILVA, Rubenson", 
+   "Delegados", 
+   "GROBA ARRIONDO, Oscar", 
+   "IBARRA, Doreen Javier", 
+   "MAHÍA, José Carlos", 
+   "PEREIRA, Nicolás", 
+   "RADÍO, Daniel"
+  ], 
+  "nombre": "TRANSPORTE", 
+  "reuniones": "Martes, hora 11:00 y Miércoles, hora 12:00.  (Del 1º al 18).", 
+  "secretaria": [
+   "Beatriz Guadalupe (Secretaria) (Internos 2246/2260/2461)", 
+   "Viviana Calcagno (Prosecretaria) (Internos 2246/2260/2461)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ctcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "YANES, Horacio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PLANCHÓN, Ricardo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CÁCERES, Graciela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GARCÍA, Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RODRÍGUEZ SERVETTO, Nelson", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "VÁZQUEZ, Juan Angel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PARDIÑAS, Yeru", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "VARELA NESTIER, Carlos", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 13:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Graciela Morales (Secretaria) (Internos 2246/2260)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Adriana Cardeillac (Prosecretaria)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "TURISMO"
+  "email": "ctcrr@parlamento.gub.uy", 
+  "miembros": [
+   "YANES, Horacio (Presidente)", 
+   "PLANCHÓN, Ricardo (Vicepresidente)", 
+   "CÁCERES, Graciela", 
+   "GARCÍA, Mario", 
+   "PEREIRA, Nicolás", 
+   "RODRÍGUEZ SERVETTO, Nelson", 
+   "VÁZQUEZ, Juan Angel", 
+   "Delegados", 
+   "FACELLO, Guillermo", 
+   "PARDIÑAS, Yeru", 
+   "RADÍO, Daniel", 
+   "VARELA NESTIER, Carlos"
+  ], 
+  "nombre": "TURISMO", 
+  "reuniones": "Miércoles, hora 13:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Graciela Morales (Secretaria) (Internos 2246/2260)", 
+   "Adriana Cardeillac (Prosecretaria)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cvtmacrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "MATIAUDA, Graciela (Presidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RODRÍGUEZ, Edgardo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "AMARILLA, Gerardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "AROCENA ARGUL, José Andrés", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BANGO, Julio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LIMA, Andrés", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PÉREZ BRITO, Darío", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SILVERA ARAÚJO, Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARBALLO DA COSTA, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GRILLE, Leandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANSEVERINO, Berta", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 10:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "VIVIENDA"
+  "email": "cvtmacrr@parlamento.gub.uy", 
+  "miembros": [
+   "MATIAUDA, Graciela (Presidenta)", 
+   "RODRÍGUEZ, Edgardo (Vicepresidente)", 
+   "AMARILLA, Gerardo", 
+   "AROCENA ARGUL, José Andrés", 
+   "BANGO, Julio", 
+   "LIMA, Andrés", 
+   "PÉREZ BRITO, Darío", 
+   "SILVERA ARAÚJO, Mario", 
+   "Delegados", 
+   "CARBALLO DA COSTA, Felipe", 
+   "GRILLE, Leandro", 
+   "IBARRA, Doreen Javier", 
+   "POSADA, Iván", 
+   "SANDER, Richard", 
+   "SANSEVERINO, Berta"
+  ], 
+  "nombre": "VIVIENDA", 
+  "reuniones": "Miércoles, hora 10:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
+   "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)"
+  ]
  }, 
  {
   "categoria": "Comisiones integradas", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ccclgacrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "BORSARI BRENNA, Gustavo (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CANTERO PIALI, Fitzgerald", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CERSÓSIMO, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ITURRALDE VIÑAS, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MUJICA, Gonzalo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ORRICO, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TOURNÉ, Daisy", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Los Miércoles de 10:00 a 12:00 horas. (durante todo el mes).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "María Eugenia Castrillón (Prosecretaria) (Internos 2488/2543)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "CONSTITUCION"
+  "email": "ccclgacrr@parlamento.gub.uy", 
+  "miembros": [
+   "BORSARI BRENNA, Gustavo (Presidente)", 
+   "URIARTE ARAÚJO, Daoiz (Vicepresidente)", 
+   "CANTERO PIALI, Fitzgerald", 
+   "CERSÓSIMO, Gustavo", 
+   "ITURRALDE VIÑAS, Pablo", 
+   "MICHELINI, Felipe", 
+   "MUJICA, Gonzalo", 
+   "ORRICO, Jorge", 
+   "TOURNÉ, Daisy", 
+   "Delegados", 
+   "PEREIRA, Nicolás", 
+   "POSADA, Iván", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "CONSTITUCION", 
+  "reuniones": "Los Miércoles de 10:00 a 12:00 horas. (durante todo el mes).", 
+  "secretaria": [
+   "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
+   "María Eugenia Castrillón (Prosecretaria) (Internos 2488/2543)"
+  ]
  }, 
  {
   "categoria": "Comisiones integradas", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cdhcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "ESPINOSA, Gustavo A. (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MINETTI, Orquídea (Vicepresidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "NOVALES, Gonzalo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PAYSSÉ, Daniela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Integrantes", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ALONSO, Verónica", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GARCÍA, Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LAURNAGA, María Elena", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MATIAUDA, Graciela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POZZI, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ROMBYS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "DERECHOS HUMANOS INTEGRADA CON LA ESPECIAL DE GENERO Y EQUIDAD"
+  "email": "cdhcrr@parlamento.gub.uy", 
+  "miembros": [
+   "ESPINOSA, Gustavo A. (Presidente)", 
+   "MINETTI, Orquídea (Vicepresidenta)", 
+   "NOVALES, Gonzalo", 
+   "PAYSSÉ, Daniela", 
+   "Integrantes", 
+   "ALONSO, Verónica", 
+   "GARCÍA, Mario", 
+   "LAURNAGA, María Elena", 
+   "MATIAUDA, Graciela", 
+   "POZZI, Jorge", 
+   "PUIG, Luis", 
+   "ROMBYS, Gustavo", 
+   "Delegados", 
+   "GROBA ARRIONDO, Oscar", 
+   "IBARRA, Doreen Javier", 
+   "PEREIRA, Nicolás", 
+   "RADÍO, Daniel", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "DERECHOS HUMANOS INTEGRADA CON LA ESPECIAL DE GENERO Y EQUIDAD", 
+  "secretaria": [
+   "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
+   "Cristina Piuma (Secretaria) (Internos 3044)", 
+   "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)", 
+   "Lourdes Zícari (Prosecretaria) (Internos 3044)"
+  ]
  }, 
  {
   "categoria": "Comisiones integradas", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cpcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GLOODTDOFSKY, Aníbal (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BEROIS QUINTEROS, Ricardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GRILLE, Leandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MIER, Sergio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "OTEGUI GRIEGO, Miguel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "UMPIÉRREZ, Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Integrantes", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ASTI, Alfredo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BERNINI, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARDOSO, José Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GANDINI, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREYRA, Susana", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PÉREZ GONZÁLEZ, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PIÑEYRÚA OLMOS, Ana Lía", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SÁNCHEZ, Alejandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ABDALA, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "YANES, Horacio", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "PRESUPUESTOS INTEGRADA CON LA DE HACIENDA"
+  "email": "cpcrr@parlamento.gub.uy", 
+  "miembros": [
+   "IBARRA, Doreen Javier (Presidente)", 
+   "GLOODTDOFSKY, Aníbal (Vicepresidente)", 
+   "BEROIS QUINTEROS, Ricardo", 
+   "GRILLE, Leandro", 
+   "MIER, Sergio", 
+   "OTEGUI GRIEGO, Miguel", 
+   "UMPIÉRREZ, Javier", 
+   "Integrantes", 
+   "ASTI, Alfredo", 
+   "BERNINI, Gustavo", 
+   "CARDOSO, José Carlos", 
+   "GANDINI, Jorge", 
+   "GROBA ARRIONDO, Oscar", 
+   "PEREYRA, Susana", 
+   "PÉREZ GONZÁLEZ, Pablo", 
+   "PIÑEYRÚA OLMOS, Ana Lía", 
+   "POSADA, Iván", 
+   "SÁNCHEZ, Alejandro", 
+   "SANDER, Richard", 
+   "Delegados", 
+   "ABDALA, Pablo", 
+   "PUIG, Luis", 
+   "URIARTE ARAÚJO, Daoiz", 
+   "YANES, Horacio"
+  ], 
+  "nombre": "PRESUPUESTOS INTEGRADA CON LA DE HACIENDA", 
+  "secretaria": [
+   "Beatriz Méndez (Secretaria) (Internos 2723/3070/3071)", 
+   "Doris Muñiz (Secretaria) (Internos 3070/3071)", 
+   "Ana Marcela Castrillón (Prosecretaria) (Internos 3070/3071)", 
+   "Eduardo Sánchez (Prosecretario) (Internos 3070/3071)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ceacrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }
-  }, 
-  "nombre": "ESPECIAL: PARA INFORMAR"
+  "email": "ceacrr@parlamento.gub.uy", 
+  "miembros": [], 
+  "nombre": "ESPECIAL: PARA INFORMAR", 
+  "secretaria": []
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ceamdcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "YANES, Horacio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CANTERO PIALI, Fitzgerald (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ASTI, Alfredo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BEROIS QUINTEROS, Ricardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CAGGIANI, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CASAS, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ESPINOSA, Gustavo A.", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LAURNAGA, María Elena", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEÑA FERNÁNDEZ, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PÉREZ GONZÁLEZ, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 08:30. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL CON FINES LEGISLATIVOS DE ASUNTOS MUNICIPALES Y DESCENTRALIZACION"
+  "email": "ceamdcrr@parlamento.gub.uy", 
+  "miembros": [
+   "YANES, Horacio (Presidente)", 
+   "CANTERO PIALI, Fitzgerald (Vicepresidente)", 
+   "ASTI, Alfredo", 
+   "BEROIS QUINTEROS, Ricardo", 
+   "CAGGIANI, Daniel", 
+   "CASAS, Alberto", 
+   "ESPINOSA, Gustavo A.", 
+   "LAURNAGA, María Elena", 
+   "PEÑA FERNÁNDEZ, Daniel", 
+   "PEREIRA, Nicolás", 
+   "URIARTE ARAÚJO, Daoiz", 
+   "Delegados", 
+   "PÉREZ GONZÁLEZ, Pablo", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "ESPECIAL CON FINES LEGISLATIVOS DE ASUNTOS MUNICIPALES Y DESCENTRALIZACION", 
+  "reuniones": "Miércoles, hora 08:30. (Del 1º al 18).", 
+  "secretaria": [
+   "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
+   "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "csscrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "CÁCERES, Graciela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CANTERO PIALI, Fitzgerald", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GLOODTDOFSKY, Aníbal", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LERETÉ SALCEDO, Orlando Darío", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TOURNÉ, Daisy", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "UMPIÉRREZ, Javier", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 14:00 (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Pamela Klappenbach (Secretaria) (Internos 3060)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Francisco Ortiz (Prosecretario) (Internos 3056/2477)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL CON FINES LEGISLATIVOS EN MATERIA DE BIENESTAR ANIMAL"
+  "email": "csscrr@parlamento.gub.uy", 
+  "miembros": [
+   "CÁCERES, Graciela", 
+   "CANTERO PIALI, Fitzgerald", 
+   "GLOODTDOFSKY, Aníbal", 
+   "LERETÉ SALCEDO, Orlando Darío", 
+   "MICHELINI, Felipe", 
+   "TOURNÉ, Daisy", 
+   "UMPIÉRREZ, Javier"
+  ], 
+  "nombre": "ESPECIAL CON FINES LEGISLATIVOS EN MATERIA DE BIENESTAR ANIMAL", 
+  "reuniones": "Miércoles, hora 14:00 (Del 1º al 18).", 
+  "secretaria": [
+   "Pamela Klappenbach (Secretaria) (Internos 3060)", 
+   "Francisco Ortiz (Prosecretario) (Internos 3056/2477)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ceiictcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "CHIESA BRUNO, Antonio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BATTISTONI, Julio (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ABDALA, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "DE LEÓN, Walter", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MAHÍA, José Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TOURNÉ, Daisy", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "VERRI, Walter", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Lunes, hora 17:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Beatriz Guadalupe (Secretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Viviana Calcagno (Prosecretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL DE INNOVACION"
+  "email": "ceiictcrr@parlamento.gub.uy", 
+  "miembros": [
+   "CHIESA BRUNO, Antonio (Presidente)", 
+   "BATTISTONI, Julio (Vicepresidente)", 
+   "ABDALA, Pablo", 
+   "DE LEÓN, Walter", 
+   "MAHÍA, José Carlos", 
+   "TOURNÉ, Daisy", 
+   "VERRI, Walter", 
+   "Delegados", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "ESPECIAL DE INNOVACION", 
+  "reuniones": "Lunes, hora 17:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Beatriz Guadalupe (Secretaria) (Internos 2246/2260/2461)", 
+   "Viviana Calcagno (Prosecretaria) (Internos 2246/2260/2461)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ceeccrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "UMPIÉRREZ, Javier (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BERNINI, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "DELGADO, Alvaro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ESPINOSA, Gustavo A.", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MAÑANA, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SÁNCHEZ, Alejandro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANSEVERINO, Berta", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "YANES, Horacio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes, hora 12:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Virginia Chiappara (Secretaria)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Angela Bernini (Prosecretaria) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL: PARA EL ESTUDIO DEL COOPERATIVISMO"
+  "email": "ceeccrr@parlamento.gub.uy", 
+  "miembros": [
+   "UMPIÉRREZ, Javier (Presidente)", 
+   "BERNINI, Gustavo", 
+   "DELGADO, Alvaro", 
+   "ESPINOSA, Gustavo A.", 
+   "MAÑANA, Daniel", 
+   "POSADA, Iván", 
+   "SÁNCHEZ, Alejandro", 
+   "SANSEVERINO, Berta", 
+   "YANES, Horacio", 
+   "Delegados", 
+   "FACELLO, Guillermo"
+  ], 
+  "nombre": "ESPECIAL: PARA EL ESTUDIO DEL COOPERATIVISMO", 
+  "reuniones": "Martes, hora 12:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Virginia Chiappara (Secretaria)", 
+   "Angela Bernini (Prosecretaria) (Internos 2246/2260/2461)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cedcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "AROCENA ARGUL, José Andrés (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GROBA ARRIONDO, Oscar (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "AMADO, Fernando", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CÁCERES, Graciela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MAÑANA, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "NIFFOURI BLANCO, Amín", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ORRICO, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SILVA, Rubenson", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "YANES, Horacio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SEMPRONI, Víctor", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Martes, hora 14:00. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Gonzalo Legnani (Secretario) (Internos 3077)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Daniel Conde Montes de Oca (Prosecretario) (Internos 3077)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL PARA EL DEPORTE"
+  "email": "cedcrr@parlamento.gub.uy", 
+  "miembros": [
+   "AROCENA ARGUL, José Andrés (Presidente)", 
+   "GROBA ARRIONDO, Oscar (Vicepresidente)", 
+   "AMADO, Fernando", 
+   "CÁCERES, Graciela", 
+   "MAÑANA, Daniel", 
+   "NIFFOURI BLANCO, Amín", 
+   "ORRICO, Jorge", 
+   "PEREIRA, Nicolás", 
+   "POSADA, Iván", 
+   "SILVA, Rubenson", 
+   "YANES, Horacio", 
+   "Delegados", 
+   "FACELLO, Guillermo", 
+   "SEMPRONI, Víctor"
+  ], 
+  "nombre": "ESPECIAL PARA EL DEPORTE", 
+  "reuniones": "Martes, hora 14:00. (Del 1º al 18).", 
+  "secretaria": [
+   "Gonzalo Legnani (Secretario) (Internos 3077)", 
+   "Daniel Conde Montes de Oca (Prosecretario) (Internos 3077)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cedafl@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "ALONSO, Verónica", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BANGO, Julio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BORSARI BRENNA, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ITURRALDE VIÑAS, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MATIAUDA, Graciela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MONTANER, Martha", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ORRICO, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "RADÍO, Daniel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SABINI, Sebastián", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SILVA, Rubenson", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Jueves 13:30 horas (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Pamela Klappenbach (Secretaria) (Internos 3060)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Guillermo Geronés (Prosecretario) (Internos 3070/3071)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL DE DROGAS Y ADICCIONES CON FINES LEGISLATIVOS"
+  "email": "cedafl@parlamento.gub.uy", 
+  "miembros": [
+   "ALONSO, Verónica", 
+   "BANGO, Julio", 
+   "BORSARI BRENNA, Gustavo", 
+   "ITURRALDE VIÑAS, Pablo", 
+   "MATIAUDA, Graciela", 
+   "MICHELINI, Felipe", 
+   "MONTANER, Martha", 
+   "ORRICO, Jorge", 
+   "PEREIRA, Nicolás", 
+   "PUIG, Luis", 
+   "RADÍO, Daniel", 
+   "SABINI, Sebastián", 
+   "SILVA, Rubenson"
+  ], 
+  "nombre": "ESPECIAL DE DROGAS Y ADICCIONES CON FINES LEGISLATIVOS", 
+  "reuniones": "Jueves 13:30 horas (Del 1º al 18).", 
+  "secretaria": [
+   "Pamela Klappenbach (Secretaria) (Internos 3060)", 
+   "Guillermo Geronés (Prosecretario) (Internos 3070/3071)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cegecrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "PAYSSÉ, Daniela (Presidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ALONSO, Verónica", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ESPINOSA, Gustavo A.", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GARCÍA, Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "LAURNAGA, María Elena", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MATIAUDA, Graciela", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POZZI, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PUIG, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ROMBYS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "FACELLO, Guillermo", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Tercer Jueves de cada mes, hora 14:30.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL DE GENERO Y EQUIDAD"
+  "email": "cegecrr@parlamento.gub.uy", 
+  "miembros": [
+   "PAYSSÉ, Daniela (Presidenta)", 
+   "ALONSO, Verónica", 
+   "ESPINOSA, Gustavo A.", 
+   "GARCÍA, Mario", 
+   "LAURNAGA, María Elena", 
+   "MATIAUDA, Graciela", 
+   "POZZI, Jorge", 
+   "PUIG, Luis", 
+   "ROMBYS, Gustavo", 
+   "Delegados", 
+   "FACELLO, Guillermo"
+  ], 
+  "nombre": "ESPECIAL DE GENERO Y EQUIDAD", 
+  "reuniones": "Tercer Jueves de cada mes, hora 14:30.", 
+  "secretaria": [
+   "Nelson Jorge Mosco (Secretario) (Internos 2246/2260/2461)", 
+   "Lilián Fernández Cítera (Prosecretaria) (Internos 2246/2260)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "celacrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "GANDINI, Jorge (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ASTI, Alfredo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BERNINI, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARDOSO, José Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GLOODTDOFSKY, Aníbal", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MUJICA, Gonzalo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Tercer Jueves de cada mes, hora 14:30.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "María Eugenia Castrillón (Prosecretaria) (Internos 2488/2543)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL CON FINES LEGISLATIVOS VINCULADOS AL LAVADO DE ACTIVOS Y CRIMEN ORGANIZADO"
+  "email": "celacrr@parlamento.gub.uy", 
+  "miembros": [
+   "GANDINI, Jorge (Presidente)", 
+   "ASTI, Alfredo", 
+   "BERNINI, Gustavo", 
+   "CARDOSO, José Carlos", 
+   "GLOODTDOFSKY, Aníbal", 
+   "MUJICA, Gonzalo", 
+   "URIARTE ARAÚJO, Daoiz", 
+   "Delegados", 
+   "SANDER, Richard"
+  ], 
+  "nombre": "ESPECIAL CON FINES LEGISLATIVOS VINCULADOS AL LAVADO DE ACTIVOS Y CRIMEN ORGANIZADO", 
+  "reuniones": "Tercer Jueves de cada mes, hora 14:30.", 
+  "secretaria": [
+   "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
+   "María Eugenia Castrillón (Prosecretaria) (Internos 2488/2543)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "cepdscrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "SANSEVERINO, Berta (Presidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CERSÓSIMO, Gustavo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ABDALA, Pablo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ALONSO, Verónica", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "BANGO, Julio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "GARINO GRUSS, Juan Manuel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "IBARRA, Doreen Javier", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PEREIRA, Nicolás", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PERRACHÓN, Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "PIÑEYRÚA OLMOS, Ana Lía", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Delegados", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SANDER, Richard", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SILVERA ARAÚJO, Mario", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Jueves, hora 10:30. (Del 1º al 18).", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Cristina Piuma (Secretaria) (Internos 3044)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Lourdes Zícari (Prosecretaria) (Internos 3044)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ESPECIAL DE POBLACION Y DESARROLLO SOCIAL"
+  "email": "cepdscrr@parlamento.gub.uy", 
+  "miembros": [
+   "SANSEVERINO, Berta (Presidenta)", 
+   "CERSÓSIMO, Gustavo (Vicepresidente)", 
+   "ABDALA, Pablo", 
+   "ALONSO, Verónica", 
+   "BANGO, Julio", 
+   "GARINO GRUSS, Juan Manuel", 
+   "IBARRA, Doreen Javier", 
+   "MICHELINI, Felipe", 
+   "PEREIRA, Nicolás", 
+   "PERRACHÓN, Mario", 
+   "PIÑEYRÚA OLMOS, Ana Lía", 
+   "Delegados", 
+   "SANDER, Richard", 
+   "SILVERA ARAÚJO, Mario"
+  ], 
+  "nombre": "ESPECIAL DE POBLACION Y DESARROLLO SOCIAL", 
+  "reuniones": "Jueves, hora 10:30. (Del 1º al 18).", 
+  "secretaria": [
+   "Cristina Piuma (Secretaria) (Internos 3044)", 
+   "Lourdes Zícari (Prosecretaria) (Internos 3044)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "D", 
-  "integracion": {
-   "email": {
-    "correo": "ceregcrr@parlamento.gub.uy", 
-    "cuerpo": "D"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "D", 
-     "text": "ORRICO, Jorge (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "POSADA, Iván (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "ARREGUI, Roque", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "CARDOSO, Germán", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "MICHELINI, Felipe", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "OTEGUI GRIEGO, Miguel", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "SEMPRONI, Víctor", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "TROBO, Jaime Mario", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "URIARTE ARAÚJO, Daoiz", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "D", 
-     "text": "Miércoles, hora 14:00.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "D", 
-     "text": "Graciela Morales (Secretaria) (Internos 2246/2260)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "D", 
-     "text": "Adriana Cardeillac (Prosecretaria)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "COMISIÓN ESPECIAL DE REGLAMENTO DE LA CÁMARA"
+  "email": "ceregcrr@parlamento.gub.uy", 
+  "miembros": [
+   "ORRICO, Jorge (Presidente)", 
+   "POSADA, Iván (Vicepresidente)", 
+   "ARREGUI, Roque", 
+   "CARDOSO, Germán", 
+   "MICHELINI, Felipe", 
+   "OTEGUI GRIEGO, Miguel", 
+   "SEMPRONI, Víctor", 
+   "TROBO, Jaime Mario", 
+   "URIARTE ARAÚJO, Daoiz"
+  ], 
+  "nombre": "COMISIÓN ESPECIAL DE REGLAMENTO DE LA CÁMARA", 
+  "reuniones": "Miércoles, hora 14:00.", 
+  "secretaria": [
+   "Graciela Morales (Secretaria) (Internos 2246/2260)", 
+   "Adriana Cardeillac (Prosecretaria)"
+  ]
  }
 ]

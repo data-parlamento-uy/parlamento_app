@@ -2,1377 +2,463 @@
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "caacss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "ANTOGNAZZA, Milton (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BORDABERRY HERRÁN, Juan Pedro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Miércoles 13 y 30 horas, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "María Celia Desalvo (Secretaria) (Internos 2163-2154)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Gloria Mederos (Prosecretaria) (Internos 2323 2282)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ASUNTOS ADMINISTRATIVOS"
+  "email": "caacss@parlamento.gub.uy", 
+  "miembros": [
+   "ANTOGNAZZA, Milton (Vicepresidente)", 
+   "BORDABERRY HERRÁN, Juan Pedro", 
+   "NIN NOVOA, Rodolfo", 
+   "PENADÉS, Gustavo", 
+   "TOPOLANSKY, Lucía"
+  ], 
+  "nombre": "ASUNTOS ADMINISTRATIVOS", 
+  "reuniones": "Miércoles 13 y 30 horas, del 1º al 18 de cada mes.", 
+  "secretaria": [
+   "María Celia Desalvo (Secretaria) (Internos 2163-2154)", 
+   "Gloria Mederos (Prosecretaria) (Internos 2323 2282)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "caicss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "BARÁIBAR, Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PASQUET IRIBARNE, Ope (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "CONDE, Roberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LACALLE  HERRERA, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LARRAÑAGA, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Jueves, a la hora 17, durante los primeros 18 días de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Vladimir De Bellis Martínez (Secretario) (Internos 2150/2405)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Rodolfo Lutegui (Prosecretario) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ASUNTOS INTERNACIONALES"
+  "email": "caicss@parlamento.gub.uy", 
+  "miembros": [
+   "BARÁIBAR, Carlos (Presidente)", 
+   "PASQUET IRIBARNE, Ope (Vicepresidente)", 
+   "CONDE, Roberto", 
+   "COURIEL, Alberto", 
+   "LACALLE  HERRERA, Luis Alberto", 
+   "LARRAÑAGA, Jorge", 
+   "MICHELINI, Rafael", 
+   "PENADÉS, Gustavo", 
+   "RUBIO, Enrique"
+  ], 
+  "nombre": "ASUNTOS INTERNACIONALES", 
+  "reuniones": "Jueves, a la hora 17, durante los primeros 18 días de cada mes.", 
+  "secretaria": [
+   "Vladimir De Bellis Martínez (Secretario) (Internos 2150/2405)", 
+   "Rodolfo Lutegui (Prosecretario) (Internos 2163)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "calsscss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "GALLINAL, Francisco (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ANTOGNAZZA, Milton (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "DA ROSA, Eber", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LORIER, Eduardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PASQUET IRIBARNE, Ope", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TAJAM, Héctor", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Jueves 15.00 horas", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Gabriela Gazzano (Secretaria) (Internos 2226)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "ASUNTOS LABORALES Y SEGURIDAD SOCIAL"
+  "email": "calsscss@parlamento.gub.uy", 
+  "miembros": [
+   "GALLINAL, Francisco (Presidente)", 
+   "ANTOGNAZZA, Milton (Vicepresidente)", 
+   "DA ROSA, Eber", 
+   "LORIER, Eduardo", 
+   "PASQUET IRIBARNE, Ope", 
+   "RUBIO, Enrique", 
+   "TAJAM, Héctor"
+  ], 
+  "nombre": "ASUNTOS LABORALES Y SEGURIDAD SOCIAL", 
+  "reuniones": "Jueves 15.00 horas", 
+  "secretaria": [
+   "Gabriela Gazzano (Secretaria) (Internos 2226)", 
+   "Gillian Callorda (Prosecretaria) (Internos 2163)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cctcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "ABREU, Sergio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLO IMPERIALE, Luis José (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "AMORÍN, José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Lunes, hora 15 y 30, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "María Rinaldi (Secretaria) (Internos 2282)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Gloria Mederos (Prosecretaria) (Internos 2323 2282)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "CIENCIA Y TECNOLOGÍA"
+  "email": "cctcss@parlamento.gub.uy", 
+  "miembros": [
+   "ABREU, Sergio (Presidente)", 
+   "GALLO IMPERIALE, Luis José (Vicepresidente)", 
+   "AMORÍN, José", 
+   "MARTÍNEZ VILLAAMIL, Daniel Carlos", 
+   "TOPOLANSKY, Lucía"
+  ], 
+  "nombre": "CIENCIA Y TECNOLOGÍA", 
+  "reuniones": "Lunes, hora 15 y 30, del 1º al 18 de cada mes.", 
+  "secretaria": [
+   "María Rinaldi (Secretaria) (Internos 2282)", 
+   "Gloria Mederos (Prosecretaria) (Internos 2323 2282)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cclcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "PASQUET IRIBARNE, Ope (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ROSADILLA, Luis (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "DA ROSA, Eber", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLINAL, Francisco", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LORIER, Eduardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Martes a las 14:30 horas.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Ana Veríssimo (Secretaria) (Internos 2152/2192)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Lucía Bomio (Prosecretaria) (Internos 2152/2192)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "CONSTITUCIÓN Y LEGISLACIÓN"
+  "email": "cclcss@parlamento.gub.uy", 
+  "miembros": [
+   "PASQUET IRIBARNE, Ope (Presidente)", 
+   "ROSADILLA, Luis (Vicepresidente)", 
+   "DA ROSA, Eber", 
+   "GALLINAL, Francisco", 
+   "LORIER, Eduardo", 
+   "MICHELINI, Rafael", 
+   "MOREIRA, Carlos", 
+   "MOREIRA, Constanza", 
+   "NIN NOVOA, Rodolfo"
+  ], 
+  "nombre": "CONSTITUCIÓN Y LEGISLACIÓN", 
+  "reuniones": "Martes a las 14:30 horas.", 
+  "secretaria": [
+   "Ana Veríssimo (Secretaria) (Internos 2152/2192)", 
+   "Lucía Bomio (Prosecretaria) (Internos 2152/2192)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cdncss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "ABREU, Sergio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BARÁIBAR, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLO IMPERIALE, Luis José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LACALLE  HERRERA, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ROSADILLA, Luis", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SARAVIA, Jorge", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "VIERA DUARTE, Tabaré", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Lunes a las 17 horas, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "María Victoria Lumaca (Secretaria) (Internos 2151)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "DEFENSA NACIONAL"
+  "email": "cdncss@parlamento.gub.uy", 
+  "miembros": [
+   "ABREU, Sergio (Presidente)", 
+   "NIN NOVOA, Rodolfo (Vicepresidente)", 
+   "BARÁIBAR, Carlos", 
+   "GALLO IMPERIALE, Luis José", 
+   "LACALLE  HERRERA, Luis Alberto", 
+   "ROSADILLA, Luis", 
+   "SARAVIA, Jorge", 
+   "TOPOLANSKY, Lucía", 
+   "VIERA DUARTE, Tabaré"
+  ], 
+  "nombre": "DEFENSA NACIONAL", 
+  "reuniones": "Lunes a las 17 horas, del 1º al 18 de cada mes.", 
+  "secretaria": [
+   "María Victoria Lumaca (Secretaria) (Internos 2151)", 
+   "Gillian Callorda (Prosecretaria) (Internos 2163)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "ceccss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "AMORÍN, José (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía (Vicepresidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "DA ROSA, Eber", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LORIER, Eduardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Miércoles a las 16:00 horas del 1º al 18 de cada mes", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "María Cecilia Fernández (Secretaria) (Internos 2137)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Bernardo Pollero (Prosecretario) (Internos 2137)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "EDUCACIÓN Y CULTURA"
+  "email": "ceccss@parlamento.gub.uy", 
+  "miembros": [
+   "AMORÍN, José (Presidente)", 
+   "TOPOLANSKY, Lucía (Vicepresidenta)", 
+   "DA ROSA, Eber", 
+   "LORIER, Eduardo", 
+   "MOREIRA, Constanza", 
+   "PENADÉS, Gustavo", 
+   "RUBIO, Enrique"
+  ], 
+  "nombre": "EDUCACIÓN Y CULTURA", 
+  "reuniones": "Miércoles a las 16:00 horas del 1º al 18 de cada mes", 
+  "secretaria": [
+   "María Cecilia Fernández (Secretaria) (Internos 2137)", 
+   "Bernardo Pollero (Prosecretario) (Internos 2137)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cgapcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SARAVIA, Jorge (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "AGAZZI, Ernesto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BARÁIBAR, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BORDABERRY HERRÁN, Juan Pedro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "CHIRUCHI, Juan Antonio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLO IMPERIALE, Luis José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LARRAÑAGA, Jorge", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Jueves a las 13 horas, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Lydia El Helou (Secretaria) (Internos 2151/2323)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "GANADERÍA"
+  "email": "cgapcss@parlamento.gub.uy", 
+  "miembros": [
+   "NIN NOVOA, Rodolfo (Presidente)", 
+   "SARAVIA, Jorge (Vicepresidente)", 
+   "AGAZZI, Ernesto", 
+   "BARÁIBAR, Carlos", 
+   "BORDABERRY HERRÁN, Juan Pedro", 
+   "CHIRUCHI, Juan Antonio", 
+   "COURIEL, Alberto", 
+   "GALLO IMPERIALE, Luis José", 
+   "LARRAÑAGA, Jorge"
+  ], 
+  "nombre": "GANADERÍA", 
+  "reuniones": "Jueves a las 13 horas, del 1º al 18 de cada mes.", 
+  "secretaria": [
+   "Lydia El Helou (Secretaria) (Internos 2151/2323)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "chcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "GALLINAL, Francisco (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BARÁIBAR, Carlos (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ABREU, Sergio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "AMORÍN, José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "HEBER, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TAJAM, Héctor", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Jueves hora 10:00.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Dinorah Amato (Secretaria) (Internos 2153/2405)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Alicia Hackenbruch (Prosecretaria) (Internos 2405)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "HACIENDA"
+  "email": "chcss@parlamento.gub.uy", 
+  "miembros": [
+   "GALLINAL, Francisco (Presidente)", 
+   "BARÁIBAR, Carlos (Vicepresidente)", 
+   "ABREU, Sergio", 
+   "AMORÍN, José", 
+   "COURIEL, Alberto", 
+   "HEBER, Luis Alberto", 
+   "MICHELINI, Rafael", 
+   "RUBIO, Enrique", 
+   "TAJAM, Héctor"
+  ], 
+  "nombre": "HACIENDA", 
+  "reuniones": "Jueves hora 10:00.", 
+  "secretaria": [
+   "Dinorah Amato (Secretaria) (Internos 2153/2405)", 
+   "Alicia Hackenbruch (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "ciecss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ABREU, Sergio (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ANTOGNAZZA, Milton", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BORDABERRY HERRÁN, Juan Pedro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "HEBER, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ROSADILLA, Luis", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Miércoles, a la hora 16, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Martín Secco (Secretario) (Internos 2187)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Rodolfo Lutegui (Prosecretario) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "INDUSTRIA"
+  "email": "ciecss@parlamento.gub.uy", 
+  "miembros": [
+   "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
+   "ABREU, Sergio (Vicepresidente)", 
+   "ANTOGNAZZA, Milton", 
+   "BORDABERRY HERRÁN, Juan Pedro", 
+   "COURIEL, Alberto", 
+   "HEBER, Luis Alberto", 
+   "ROSADILLA, Luis"
+  ], 
+  "nombre": "INDUSTRIA", 
+  "reuniones": "Miércoles, a la hora 16, del 1º al 18 de cada mes.", 
+  "secretaria": [
+   "Martín Secco (Secretario) (Internos 2187)", 
+   "Rodolfo Lutegui (Prosecretario) (Internos 2163)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cmacss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "HEBER, Luis Alberto (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "CONDE, Roberto (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "AGAZZI, Ernesto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BARÁIBAR, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "VIERA DUARTE, Tabaré", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Miércoles a las 18:00 horas.\r\nDel 1º al 18 de cada mes.\r\n\"Dr. Juan Andrés Ramírez\"", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Susana Rodríguez (Secretaria) (Internos 2154)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "María José Morador (Prosecretaria) (Internos 2405)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "MEDIO AMBIENTE"
+  "email": "cmacss@parlamento.gub.uy", 
+  "miembros": [
+   "HEBER, Luis Alberto (Presidente)", 
+   "CONDE, Roberto (Vicepresidente)", 
+   "AGAZZI, Ernesto", 
+   "BARÁIBAR, Carlos", 
+   "VIERA DUARTE, Tabaré"
+  ], 
+  "nombre": "MEDIO AMBIENTE", 
+  "reuniones": "Miércoles a las 18:00 horas.\r\nDel 1º al 18 de cada mes.\r\n\"Dr. Juan Andrés Ramírez\"", 
+  "secretaria": [
+   "Susana Rodríguez (Secretaria) (Internos 2154)", 
+   "María José Morador (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cpdicss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza (Presidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "CHIRUCHI, Juan Antonio (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "CONDE, Roberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LORIER, Eduardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SOLARI DAMONTE, Alfredo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TAJAM, Héctor", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Lunes  desde el 1º al 18 de cada mes  16 horas - Sala \"Martín C. Martínez\" (int. 2203)", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Carla Buoncristiano (Secretaria) (Internos 2323)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Rodolfo Lutegui (Prosecretario) (Internos 2163)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "POBLACIÓN"
+  "email": "cpdicss@parlamento.gub.uy", 
+  "miembros": [
+   "MOREIRA, Constanza (Presidenta)", 
+   "CHIRUCHI, Juan Antonio (Vicepresidente)", 
+   "CONDE, Roberto", 
+   "LORIER, Eduardo", 
+   "MOREIRA, Carlos", 
+   "SOLARI DAMONTE, Alfredo", 
+   "TAJAM, Héctor"
+  ], 
+  "nombre": "POBLACIÓN", 
+  "reuniones": "Lunes  desde el 1º al 18 de cada mes  16 horas - Sala \"Martín C. Martínez\" (int. 2203)", 
+  "secretaria": [
+   "Carla Buoncristiano (Secretaria) (Internos 2323)", 
+   "Rodolfo Lutegui (Prosecretario) (Internos 2163)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cpcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SOLARI DAMONTE, Alfredo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ANTOGNAZZA, Milton", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "DA ROSA, Eber", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Miércoles a las 15 horas", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Lydia El Helou (Secretaria) (Internos 2151/2323)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "María José Morador (Prosecretaria) (Internos 2405)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "PRESUPUESTO"
+  "email": "cpcss@parlamento.gub.uy", 
+  "miembros": [
+   "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
+   "SOLARI DAMONTE, Alfredo (Vicepresidente)", 
+   "ANTOGNAZZA, Milton", 
+   "DA ROSA, Eber", 
+   "MOREIRA, Constanza", 
+   "PENADÉS, Gustavo", 
+   "TOPOLANSKY, Lucía"
+  ], 
+  "nombre": "PRESUPUESTO", 
+  "reuniones": "Miércoles a las 15 horas", 
+  "secretaria": [
+   "Lydia El Helou (Secretaria) (Internos 2151/2323)", 
+   "María José Morador (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cspcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "AGAZZI, Ernesto (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "CONDE, Roberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLO IMPERIALE, Luis José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LACALLE  HERRERA, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SOLARI DAMONTE, Alfredo", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Martes a la hora 17 del 1º al 18 de cada mes.\r\n\"Dr. Martín C. Martínez\"", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Susana Rodríguez (Secretaria) (Internos 2154)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Susana Rodríguez (Secretaria) (Internos 2154)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "María José Morador (Prosecretaria) (Internos 2405)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "SALUD PÚBLICA"
+  "email": "cspcss@parlamento.gub.uy", 
+  "miembros": [
+   "MOREIRA, Carlos (Presidente)", 
+   "AGAZZI, Ernesto (Vicepresidente)", 
+   "CONDE, Roberto", 
+   "GALLO IMPERIALE, Luis José", 
+   "LACALLE  HERRERA, Luis Alberto", 
+   "MOREIRA, Constanza", 
+   "SOLARI DAMONTE, Alfredo"
+  ], 
+  "nombre": "SALUD PÚBLICA", 
+  "reuniones": "Martes a la hora 17 del 1º al 18 de cada mes.\r\n\"Dr. Martín C. Martínez\"", 
+  "secretaria": [
+   "Susana Rodríguez (Secretaria) (Internos 2154)", 
+   "Susana Rodríguez (Secretaria) (Internos 2154)", 
+   "María José Morador (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "ctopcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "VIERA DUARTE, Tabaré (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLO IMPERIALE, Luis José (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ROSADILLA, Luis", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Miércoles a las 14:30 horas, del 1º al 18 de cada mes", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "Rosa De León (Secretaria) (Internos 2157)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Alicia Hackenbruch (Prosecretaria) (Internos 2405)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "TRANSPORTE Y OBRAS PÚBLICAS"
+  "email": "ctopcss@parlamento.gub.uy", 
+  "miembros": [
+   "VIERA DUARTE, Tabaré (Presidente)", 
+   "GALLO IMPERIALE, Luis José (Vicepresidente)", 
+   "MARTÍNEZ VILLAAMIL, Daniel Carlos", 
+   "MICHELINI, Rafael", 
+   "MOREIRA, Carlos", 
+   "PENADÉS, Gustavo", 
+   "ROSADILLA, Luis"
+  ], 
+  "nombre": "TRANSPORTE Y OBRAS PÚBLICAS", 
+  "reuniones": "Miércoles a las 14:30 horas, del 1º al 18 de cada mes", 
+  "secretaria": [
+   "Rosa De León (Secretaria) (Internos 2157)", 
+   "Alicia Hackenbruch (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones permanentes", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cvotcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "CHIRUCHI, Juan Antonio (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BORDABERRY HERRÁN, Juan Pedro", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LORIER, Eduardo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TAJAM, Héctor", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }
-   ], 
-   "reuniones": [
-    {
-     "cuerpo": "S", 
-     "text": "Martes 16 y 30 horas, del 1º al 18 de cada mes.", 
-     "tipo": "reuniones"
-    }
-   ], 
-   "secretaria": [
-    {
-     "cuerpo": "S", 
-     "text": "María Rinaldi (Secretaria) (Internos 2282)", 
-     "tipo": "secretaria"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Gloria Mederos (Prosecretaria) (Internos 2323 2282)", 
-     "tipo": "secretaria"
-    }
-   ]
-  }, 
-  "nombre": "VIVIENDA Y ORDENAMIENTO TERRITORIAL"
+  "email": "cvotcss@parlamento.gub.uy", 
+  "miembros": [
+   "CHIRUCHI, Juan Antonio (Presidente)", 
+   "BORDABERRY HERRÁN, Juan Pedro", 
+   "LORIER, Eduardo", 
+   "TAJAM, Héctor", 
+   "TOPOLANSKY, Lucía"
+  ], 
+  "nombre": "VIVIENDA Y ORDENAMIENTO TERRITORIAL", 
+  "reuniones": "Martes 16 y 30 horas, del 1º al 18 de cada mes.", 
+  "secretaria": [
+   "María Rinaldi (Secretaria) (Internos 2282)", 
+   "Gloria Mederos (Prosecretaria) (Internos 2323 2282)"
+  ]
  }, 
  {
   "categoria": "Comisiones integradas", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cpcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SOLARI DAMONTE, Alfredo (Vicepresidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ANTOGNAZZA, Milton", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "DA ROSA, Eber", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TOPOLANSKY, Lucía", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "Integrantes", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ABREU, Sergio", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "AMORÍN, José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "BARÁIBAR, Carlos", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "COURIEL, Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLINAL, Francisco", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "HEBER, Luis Alberto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "RUBIO, Enrique", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "TAJAM, Héctor", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "PRESUPUESTO INTEGRADA CON HACIENDA"
+  "email": "cpcss@parlamento.gub.uy", 
+  "miembros": [
+   "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
+   "SOLARI DAMONTE, Alfredo (Vicepresidente)", 
+   "ANTOGNAZZA, Milton", 
+   "DA ROSA, Eber", 
+   "MOREIRA, Constanza", 
+   "PENADÉS, Gustavo", 
+   "TOPOLANSKY, Lucía", 
+   "Integrantes", 
+   "ABREU, Sergio", 
+   "AMORÍN, José", 
+   "BARÁIBAR, Carlos", 
+   "COURIEL, Alberto", 
+   "GALLINAL, Francisco", 
+   "HEBER, Luis Alberto", 
+   "MICHELINI, Rafael", 
+   "RUBIO, Enrique", 
+   "TAJAM, Héctor"
+  ], 
+  "nombre": "PRESUPUESTO INTEGRADA CON HACIENDA", 
+  "secretaria": [
+   "Dinorah Amato (Secretaria) (Internos 2153/2405)", 
+   "Lydia El Helou (Secretaria) (Internos 2151/2323)", 
+   "Alicia Hackenbruch (Prosecretaria) (Internos 2405)", 
+   "María José Morador (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "chcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "AGAZZI, Ernesto", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLO IMPERIALE, Luis José", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PASQUET IRIBARNE, Ope", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PENADÉS, Gustavo", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "COMISIÓN ESPECIAL CON EL OBJETO DE  ANALIZAR Y HACER PROPUESTAS RELATIVAS A LAS LEYES Y NORMAS DE PROMOCIÓN DE INVERSIONES."
+  "email": "chcss@parlamento.gub.uy", 
+  "miembros": [
+   "AGAZZI, Ernesto", 
+   "GALLO IMPERIALE, Luis José", 
+   "NIN NOVOA, Rodolfo", 
+   "PASQUET IRIBARNE, Ope", 
+   "PENADÉS, Gustavo"
+  ], 
+  "nombre": "COMISIÓN ESPECIAL CON EL OBJETO DE  ANALIZAR Y HACER PROPUESTAS RELATIVAS A LAS LEYES Y NORMAS DE PROMOCIÓN DE INVERSIONES.", 
+  "secretaria": [
+   "Dinorah Amato (Secretaria) (Internos 2153/2405)", 
+   "Alicia Hackenbruch (Prosecretaria) (Internos 2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cedcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": []
-  }, 
-  "nombre": "ESPECIAL DE DEPORTE"
+  "email": "cedcss@parlamento.gub.uy", 
+  "miembros": [], 
+  "nombre": "ESPECIAL DE DEPORTE", 
+  "secretaria": [
+   "Carla Buoncristiano (Secretaria) (Internos 2323)", 
+   "Gloria Mederos (Prosecretaria) (Internos 2323 2282)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "none", 
-    "cuerpo": "S"
-   }, 
-   "miembros": []
-  }, 
-  "nombre": "COMISIÓN ESPECIAL PARA SUMINISTRAR DATOS CON FINES LEGISLATIVOS"
+  "miembros": [], 
+  "nombre": "COMISIÓN ESPECIAL PARA SUMINISTRAR DATOS CON FINES LEGISLATIVOS", 
+  "secretaria": [
+   "María Cecilia Fernández (Secretaria) (Internos 2137)", 
+   "Martín Secco (Prosecretario) (Internos 2187)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cspcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": []
-  }, 
-  "nombre": "COMISIÓN ESPECIAL CON FINES LEGISLATIVOS SOBRE EL SISTEMA NACIONAL INTEGRADO DE SALUD. SITUACIÓN Y FUNCIONAMIENTO."
+  "email": "cspcss@parlamento.gub.uy", 
+  "miembros": [], 
+  "nombre": "COMISIÓN ESPECIAL CON FINES LEGISLATIVOS SOBRE EL SISTEMA NACIONAL INTEGRADO DE SALUD. SITUACIÓN Y FUNCIONAMIENTO.", 
+  "secretaria": [
+   "Susana Rodríguez (Secretaria) (Internos 2154)", 
+   "Martín Secco (Prosecretario) (Internos 2187)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "chcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "GALLINAL, Francisco", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "SUBCOMISIÓN PARA EL ESTUDIO DEL PROYECTO DE LEY DE BASES DE DATOS DE CONSULTA PÚBLICA"
+  "email": "chcss@parlamento.gub.uy", 
+  "miembros": [
+   "GALLINAL, Francisco", 
+   "MICHELINI, Rafael"
+  ], 
+  "nombre": "SUBCOMISIÓN PARA EL ESTUDIO DEL PROYECTO DE LEY DE BASES DE DATOS DE CONSULTA PÚBLICA", 
+  "secretaria": [
+   "Dinorah Amato (Secretaria) (Internos 2153/2405)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cclcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "GALLINAL, Francisco", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MICHELINI, Rafael", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "PASQUET IRIBARNE, Ope", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "ROSADILLA, Luis", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "SUBCOMISIÓN PARA EL ESTUDIO DEL PROYECTO DE LEY POR EL QUE SE MODIFICA EL RÉGIMEN DE FORTALECIMIENTO DE LA TRANSPARENCIA PÚBLICA"
+  "email": "cclcss@parlamento.gub.uy", 
+  "miembros": [
+   "NIN NOVOA, Rodolfo (Presidente)", 
+   "GALLINAL, Francisco", 
+   "MICHELINI, Rafael", 
+   "PASQUET IRIBARNE, Ope", 
+   "ROSADILLA, Luis"
+  ], 
+  "nombre": "SUBCOMISIÓN PARA EL ESTUDIO DEL PROYECTO DE LEY POR EL QUE SE MODIFICA EL RÉGIMEN DE FORTALECIMIENTO DE LA TRANSPARENCIA PÚBLICA", 
+  "secretaria": [
+   "Ana Veríssimo (Secretaria) (Internos 2152/2192)"
+  ]
  }, 
  {
   "categoria": "Comisiones especiales", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "cclcss@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "PASQUET IRIBARNE, Ope (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "MOREIRA, Constanza (Vicepresidenta)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "DA ROSA, Eber", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "LORIER, Eduardo", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "SUBCOMISIÓN REFORMA DEL CÓDIGO DEL PROCESO PENAL"
+  "email": "cclcss@parlamento.gub.uy", 
+  "miembros": [
+   "PASQUET IRIBARNE, Ope (Presidente)", 
+   "MOREIRA, Constanza (Vicepresidenta)", 
+   "DA ROSA, Eber", 
+   "LORIER, Eduardo"
+  ], 
+  "nombre": "SUBCOMISIÓN REFORMA DEL CÓDIGO DEL PROCESO PENAL", 
+  "secretaria": [
+   "Ana Veríssimo (Secretaria) (Internos 2152/2192)", 
+   "Lucía Bomio (Prosecretaria) (Internos 2152/2192)"
+  ]
  }, 
  {
   "categoria": "Comisiones preinvestigadoras", 
   "cuerpo": "S", 
-  "integracion": {
-   "email": {
-    "correo": "mmorador@parlamento.gub.uy", 
-    "cuerpo": "S"
-   }, 
-   "miembros": [
-    {
-     "cuerpo": "S", 
-     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "NIN NOVOA, Rodolfo", 
-     "tipo": "miembros"
-    }, 
-    {
-     "cuerpo": "S", 
-     "text": "SOLARI DAMONTE, Alfredo", 
-     "tipo": "miembros"
-    }
-   ]
-  }, 
-  "nombre": "PREINVESTIGADORA SOBRE LA SITUACIÓN ECONÓMICA Y FINANCIERA DE ANCAP"
+  "email": "mmorador@parlamento.gub.uy", 
+  "miembros": [
+   "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
+   "NIN NOVOA, Rodolfo", 
+   "SOLARI DAMONTE, Alfredo"
+  ], 
+  "nombre": "PREINVESTIGADORA SOBRE LA SITUACIÓN ECONÓMICA Y FINANCIERA DE ANCAP", 
+  "secretaria": [
+   "Vladimir De Bellis Martínez (Secretario) (Internos 2150/2405)", 
+   "María José Morador (Prosecretaria) (Internos 2405)"
+  ]
  }
 ]

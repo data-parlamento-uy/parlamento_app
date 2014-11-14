@@ -16,4 +16,10 @@ module ApplicationHelper
       when 'partido frente amplio' then 'bandera_fa_derecha.svg'
     end
   end
+
+  def pretty_text(text)
+    text.capitalize!
+    exc = %w(y con el de para del se la sobre a las que)
+    text.split(" ").map {|word| exc.include?(word) ? word : word.capitalize }.join(" ")
+  end
 end

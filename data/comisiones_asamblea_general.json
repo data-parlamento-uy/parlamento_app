@@ -1,0 +1,726 @@
+[
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "caicss@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Jueves, a la hora 17, durante los primeros 18 días de cada mes.", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "BARÁIBAR, Carlos (Presidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PASQUET IRIBARNE, Ope (Vicepresidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "CONDE, Roberto", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "COURIEL, Alberto", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "LACALLE  HERRERA, Luis Alberto", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "LARRAÑAGA, Jorge", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MICHELINI, Rafael", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PENADÉS, Gustavo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "RUBIO, Enrique", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Vladimir De Bellis Martínez (Secretario) (Internos 2150/2405)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Rodolfo Lutegui (Prosecretario) (Internos 2163)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "ASUNTOS INTERNACIONALES"
+ }, 
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "calsscss@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Jueves 15.00 horas", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "GALLINAL, Francisco (Presidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ANTOGNAZZA, Milton (Vicepresidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "DA ROSA, Eber", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "LORIER, Eduardo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PASQUET IRIBARNE, Ope", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "RUBIO, Enrique", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "TAJAM, Héctor", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Gabriela Gazzano (Secretaria) (Internos 2226)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "ASUNTOS LABORALES Y SEGURIDAD SOCIAL"
+ }, 
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cclcss@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Martes a las 14:30 horas.", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "PASQUET IRIBARNE, Ope (Presidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ROSADILLA, Luis (Vicepresidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "DA ROSA, Eber", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "GALLINAL, Francisco", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "LORIER, Eduardo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MICHELINI, Rafael", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MOREIRA, Carlos", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MOREIRA, Constanza", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "NIN NOVOA, Rodolfo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Ana Veríssimo (Secretaria) (Internos 2152/2192)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Lucía Bomio (Prosecretaria) (Internos 2152/2192)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "CONSTITUCIÓN Y LEGISLACIÓN"
+ }, 
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cdncss@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Lunes a las 17 horas, del 1º al 18 de cada mes.", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "ABREU, Sergio (Presidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "NIN NOVOA, Rodolfo (Vicepresidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "BARÁIBAR, Carlos", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "GALLO IMPERIALE, Luis José", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "LACALLE  HERRERA, Luis Alberto", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ROSADILLA, Luis", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "SARAVIA, Jorge", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "TOPOLANSKY, Lucía", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "VIERA DUARTE, Tabaré", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "María Victoria Lumaca (Secretaria) (Internos 2151)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "DEFENSA NACIONAL"
+ }, 
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "none", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "DERECHOS HUMANOS Y PETICIONES"
+ }, 
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "none", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "FOMENTO"
+ }, 
+ {
+  "categoria": "Comisiones permanentes", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "none", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "HACIENDA Y PRESUPUESTO"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cebmag@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "ESPECIAL PARA LA EJECUCIÓN DEL CONVENIO DONACIÓN DEL BANCO MUNDIAL"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cefalieag@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Lunes a las 13 y 30 horas, del 1º al 18 de cada mes.", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "PASSADA, Ivonne (Presidenta)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "TROBO, Jaime Mario (Vicepresidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "AMY, José A.", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ANTOGNAZZA, Milton", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "CONDE, Roberto", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "GARCÍA, Javier", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MICHELINI, Felipe", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PEÑA FERNÁNDEZ, Daniel", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PENADÉS, Gustavo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PÉREZ GONZÁLEZ, Pablo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "POSADA, Iván", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ROMBYS, Gustavo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ROSADILLA, Luis", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "URIARTE ARAÚJO, Daoiz", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "VIERA DUARTE, Tabaré", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "María Cecilia Fernández (Secretaria) (Internos 2137)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Beatriz Méndez (Secretaria) (Internos 2723/3070/3071)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "ESPECIAL CON FINES DE ASESORAMIENTO LEGISLATIVO SOBRE INTELIGENCIA DE ESTADO"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "none", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "ESPECIAL DE DERECHOS HUMANOS"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cessrpaag@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "ESPECIAL DE SEGUIMIENTO DEL SISTEMA DE RESPONSABILIDAD PENAL ADOLESCENTE (SIRPA)"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cepevueag@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "ESPECIAL PARA EL ESTUDIO DEL VOTO DE LOS URUGUAYOS EN EL EXTERIOR"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cesscag@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Ultimos jueves de cada mes, hora 15:00.", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "MARTÍNEZ VILLAAMIL, Daniel Carlos (Presidente)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ANTOGNAZZA, Milton", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ESPINOSA, Gustavo A.", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "GALLO IMPERIALE, Luis José", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "GLOODTDOFSKY, Aníbal", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MICHELINI, Felipe", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MINETTI, Orquídea", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MOREIRA, Carlos", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "NOVALES, Gonzalo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PARDIÑAS, Yeru", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PAYSSÉ, Daniela", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PENADÉS, Gustavo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "RADÍO, Daniel", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ROMBYS, Gustavo", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "TROBO, Jaime Mario", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Carla Buoncristiano (Secretaria) (Internos 2323)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Horacio Capdebila (Secretario) (Internos 2488/2543)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "María José Morador (Prosecretaria) (Internos 2405)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "ESPECIAL PARA EL SEGUIMIENTO DE LA SITUACIÓN CARCELARIA"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "none", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "SUBCOMISIÓN DE ADJUDICACIONES DE LA COMISIÓN ESPECIAL DEL CONVENIO DONACIÓN DEL BANCO MUNDIAL"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cefalieag@parlamento.gub.uy", 
+    "cuerpo": "A"
+   }, 
+   "reuniones": [
+    {
+     "cuerpo": "A", 
+     "text": "Primer y segundo lunes de cada mes a las 13 y 30 horas", 
+     "tipo": "reuniones"
+    }
+   ], 
+   "secretaria": [
+    {
+     "cuerpo": "A", 
+     "text": "AMY, José A.", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "GARCÍA, Javier", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "MICHELINI, Felipe", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "PASSADA, Ivonne", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "POSADA, Iván", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "ROSADILLA, Luis", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "TROBO, Jaime Mario", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "URIARTE ARAÚJO, Daoiz", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "VIERA DUARTE, Tabaré", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Secretaría", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Beatriz Méndez (Secretaria) (Internos 2723/3070/3071)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Ana Veríssimo (Secretaria) (Internos 2152/2192)", 
+     "tipo": "miembros"
+    }, 
+    {
+     "cuerpo": "A", 
+     "text": "Gillian Callorda (Prosecretaria) (Internos 2163)", 
+     "tipo": "miembros"
+    }
+   ]
+  }, 
+  "nombre": "SUBCOMISIÓN DE LA COMISIÓN ESPECIAL CON FINES DE ASESORAMIENTO LEGISLATIVO SOBRE INTELIGENCIA DE ESTADO"
+ }, 
+ {
+  "categoria": "Comisiones especiales", 
+  "cuerpo": "A", 
+  "integracion": {
+   "email": {
+    "correo": "cebmag", 
+    "cuerpo": "A"
+   }
+  }, 
+  "nombre": "SUBCOMISION DE ADJUDICACIONES. PLAN DE DIFUSION Y PLAN DE MEDIOS DE LA COMISION ESPECIAL DEL CONVENIO DONACION DEL BANCO MUNDIAL."
+ }
+]

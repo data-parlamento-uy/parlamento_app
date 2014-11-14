@@ -32,23 +32,42 @@ task :importar_legisladores => :environment  do
 end
 
 task :importar_comisiones => :environment  do
-  file = File.read('data/comisiones.json')
+  file = File.read('data/comisiones_senadores.json')
   data_hash = JSON.parse(file)
+  create_comissions(data_hash)
 
-  data_hash['comisiones'].each do |comision_data|
-    comision = Comission.create({
-        name: comision_data['nombre'],
-        chamber: comision_data['cuerpo']
-    })
+  file = File.read('data/comisiones_diputados.json')
+  data_hash = JSON.parse(file)
+  create_comissions(data_hash)
+
+  file = File.read('data/comisiones_asamblea_general.json')
+  data_hash = JSON.parse(file)
+  create_comissions(data_hash)
+end
+
+def create_comissions(data_hash)
+  data_hash.each do |comision_data|
+    comision = Comission.create({ name: clean_name(comision_data['nombre']), chamber: comision_data['cuerpo'] })
 
     comision_data['integracion']['miembros'].each do |comision_data|
-      last_name, first_name = comision_data['text'].downcase.gsub(/\(.*\)/, '').split(', ')
-      legislator = Legislator.find_by_first_name_and_last_name(first_name, last_name)
+      last_name, first_name = clean_name(comision_data['text']).split(', ')
+      legislator = Legislator.find_by_first_name_and_last_name(first_name.try(:strip), last_name.try(:strip))
       if legislator
-        ComissionParticipant.create({
-            legislator: legislator, comission: comision
-        })
+        ComissionParticipant.create({legislator: legislator, comission: comision})
       end
     end
   end
 end
+
+
+def clean_name(text)
+  text.downcase.
+      gsub(/\(.*\)/, '').
+      gsub(/É/, 'é').
+      gsub(/Á/, 'á').
+      gsub(/Ó/, 'ó').
+      gsub(/Í/, 'í').
+      gsub(/Ú/, 'ú').
+      gsub(/Ñ/, 'ñ')
+end
+

@@ -1,5 +1,5 @@
 <% if legislator %>
-<div class="large-4 medium-6 small-12 columns mix <%= legislator.political_party.name.gsub(' ', '_') %>">
+<div class="large-4 medium-6 small-12 columns mix <%= legislator.political_party.name.gsub(' ', '_') %>" data-myorder="<%= legislator.attendance %>">
   <div class="ficha">
     <div class="bandera_derecha right"><%= image_tag right_flag_image(legislator.political_party.name) %></div>
     <div class="row ficha-parlamentario">
@@ -66,7 +66,7 @@
           <p class="valor-parlamentario-abajo">$147.838</p>
         </div>
         <div class="small-4 columns">
-          <p class="valor-parlamentario-abajo">2</p>
+          <p class="valor-parlamentario-abajo">-</p>
         </div>
         <div class="small-4 columns">
           <p class="valor-parlamentario-abajo">-</p>

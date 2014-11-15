@@ -1,0 +1,15 @@
+<% current_type = params[:type] || 'todas' %>
+<div class="filtro">
+  <ul class="right">
+    <li class="<%= class_for_filter('todas', current_type) %>">
+      <%= link_to 'todas', controller: 'comissions', action: @action, type: 'todas' %>
+    </li>
+
+    <li class="<%= class_for_filter('P', current_type) %>">
+      <%= link_to 'comisiones permantentes', controller: 'comissions', action: @action, type: 'P' %>
+    </li>
+    <li class="<%= class_for_filter('E', current_type) %>">
+      <%= link_to 'comisiones especiales', controller: 'comissions', action: @action, type: 'E' %>
+    </li>
+  </ul>
+</div>

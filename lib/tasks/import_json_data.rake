@@ -47,7 +47,11 @@ end
 
 def create_comissions(data_hash)
   data_hash.each do |comision_data|
-    comision = Comission.create({ name: clean_name(comision_data['nombre']), chamber: comision_data['cuerpo'] })
+    comision = Comission.create({
+      name: clean_name(comision_data['nombre']),
+      chamber: comision_data['cuerpo'],
+      comission_type: comision_data['categoria'] == 'Comisiones permanentes' ? 'P' : 'E'
+    })
 
     comision_data['miembros'].each do |full_name|
       last_name, first_name = clean_name(full_name).split(', ')

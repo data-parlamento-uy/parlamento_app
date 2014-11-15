@@ -8,6 +8,10 @@ module ApplicationHelper
     section == current_section ? 'boton margen-izquierda active' : 'boton margen-izquierda'
   end
 
+  def class_for_filter(filter, current_filter)
+    filter == current_filter ? 'label margen-izquierda-mitad active' : 'label margen-izquierda-mitad'
+  end
+
   def right_flag_image(political_party)
     case political_party
       when 'partido nacional'      then 'bandera_pn_derecha.svg'

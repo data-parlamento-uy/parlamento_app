@@ -8,6 +8,11 @@
     </div>
   </div>
 </div>
+<div class="small-12 columns text-right">
+  <div class="small-8 small-offset-3 ">
+    <%= render partial: 'filter_by_type' %>
+  </div>
+</div>
 
 <!-- #### COMISIONES #### -->
 <div class="row comisiones margen-superior">
@@ -20,7 +25,7 @@
         <ul class="no-bullet">
           <% comission_list.each do |comission| %>
               <% link_class = current_comission == comission.id ? 'active' : '' %>
-              <li><%= link_to pretty_text(comission.name), comission_path(comission), class: link_class %></li>
+              <li><%= link_to pretty_text(comission.name), comission_path(comission, type: params[:type]), class: link_class %></li>
           <% end %>
         </ul>
       </div>

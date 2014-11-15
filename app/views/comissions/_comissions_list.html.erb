@@ -1,0 +1,30 @@
+<% current_comission ||= 0 %>
+
+<div class="small-12 columns camara">
+  <div class="large-5 large-offset-6">
+    <hr>
+    <div class="button-group ">
+      <%= render partial: 'filters_by_chamber' %>
+    </div>
+  </div>
+</div>
+
+<!-- #### COMISIONES #### -->
+<div class="row comisiones margen-superior">
+  <% first_column = true %>
+  <% slice_size = comissions.size / 2 %>
+  <% slice_size += 1 if (comissions.size % 2) != 0 %>
+  <% comissions.each_slice(slice_size) do |comission_list|%>
+      <% div_class = first_column ? 'large-5 large-offset-1 columns' : 'large-5 end columns' %>
+      <div class="<%= div_class %>">
+        <ul class="no-bullet">
+          <% comission_list.each do |comission| %>
+              <% link_class = current_comission == comission.id ? 'active' : '' %>
+              <li><%= link_to pretty_text(comission.name), comission_path(comission), class: link_class %></li>
+          <% end %>
+        </ul>
+      </div>
+
+      <% first_column = false %>
+  <% end %>
+</div>

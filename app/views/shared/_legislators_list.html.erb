@@ -1,0 +1,9 @@
+<div class="small-12 columns fichas">
+  <%= legislators.each_slice(3) do |legislators_row| %>
+      <div clas="row">
+        <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[0] }  %>
+        <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[1] }  %>
+        <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[2] }  %>
+      </div>
+  <% end %>
+</div>

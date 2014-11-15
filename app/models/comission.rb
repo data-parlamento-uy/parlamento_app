@@ -7,5 +7,6 @@ class Comission < ActiveRecord::Base
   scope :of_diputados, -> { where(chamber: CHAMBERS[:diputados]) }
   scope :of_senadores, -> { where(chamber: CHAMBERS[:senadores]) }
   scope :of_asamblea_general, -> { where(chamber: CHAMBERS[:asamblea_general]) }
+  scope :by_name, -> { order('name ASC') }
 
 end

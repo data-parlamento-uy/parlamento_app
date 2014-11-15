@@ -1,0 +1,15 @@
+<%= render partial: 'comissions_list', locals: { comissions: @comissions, current_comission: @comission.id } %>
+
+<% if @comission.legislators.any? %>
+    <%= render partial: 'shared/legislators_list', locals: { legislators: @comission.legislators } %>
+<% else %>
+    <div class="small-12 columns fichas">
+      <div class="row">
+        <div class="large-12 columns ficha">
+          <p class="no_data">Comisión pendiente de integración a la fecha de consulta</p>
+        </div>
+      </div>
+
+    </div>
+
+<% end %>

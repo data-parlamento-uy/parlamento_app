@@ -1,6 +1,9 @@
 class Legislator < ActiveRecord::Base
   CHAMBERS = { diputados: 'D', senadores: 'S' }
 
+  has_many :comission_participants
+  has_many :comissions, through: :comission_participants
+
   belongs_to :political_party
 
   scope :in_diputados, -> { where(chamber: CHAMBERS[:diputados]) }
@@ -15,6 +18,23 @@ class Legislator < ActiveRecord::Base
       "Diputado por #{state}"
     else
       "Senador"
+    end
+  end
+
+  def expertise
+    all_topics = comissions.map(&:categories).flatten
+
+    topics_temp = all_topics.reject{|topic| topic == 'otros' }
+    topics_count = topics_temp.
+        each_with_object(Hash.new(0)) { |topic,counts| counts[topic] += 1 }.
+        sort_by{|topic, value| -value }
+
+    topics = topics_count.map{|topic, _| topic }
+    if topics.size >= 4
+      topics[0..3]
+    else
+      topics += ['otros'] if all_topics.include?('otros')
+      topics
     end
   end
 end

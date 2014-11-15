@@ -20,10 +20,9 @@
         <!-- #### EXPERTISE ####-->
         <div class="small-8 columns margen-derecho">
             <ul>
-            <li><%= image_tag 'icono_int.svg', class: 'iconos-expertise' %></li>
-            <li><%= image_tag 'icono_def.svg', class: 'iconos-expertise' %></li>
-            <li><%= image_tag 'icono_dep.svg', class: 'iconos-expertise' %></li>
-            <li><%= image_tag 'icono_sal.svg', class: 'iconos-expertise' %></li>
+              <% legislator.expertise.each do |topic| %>
+                  <li><%= image_tag "icono_#{topic}.svg", class: 'iconos-expertise', title: topic.titleize %></li>
+              <% end %>
           </ul>
         </div>
          <!-- #### CONTACTO ####-->
@@ -36,7 +35,7 @@
         </div>
       </div>
     </div>
-                                                                  </div>
+   </div>
     <!-- #### 1RA LINEA DE DATOS ####-->
     <div class="row">
         <div class="small-4 columns">

@@ -37,4 +37,8 @@ class Legislator < ActiveRecord::Base
       topics
     end
   end
+
+  def attendance
+    attendances_count * 100 / citations_count
+  end
 end

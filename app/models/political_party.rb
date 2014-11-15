@@ -28,4 +28,18 @@ class PoliticalParty < ActiveRecord::Base
   def related_states
     legislators.in_diputados.map(&:state).uniq.sort
   end
+
+  def attendance
+    citations_count = legislators.map(&:citations_count).sum
+    attendances_count = legislators.map(&:attendances_count).sum
+
+    attendances_count * 100 / citations_count
+  end
+
+  def self.total_attendance
+    citations_count = Legislator.all.map(&:citations_count).sum
+    attendances_count = Legislator.all.map(&:attendances_count).sum
+
+    attendances_count * 100 / citations_count
+  end
 end

@@ -1,0 +1,974 @@
+[
+ {
+  "asistencias": "10", 
+  "citaciones": "10", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Abdala, Pablo"
+ }, 
+ {
+  "asistencias": "214", 
+  "citaciones": "270", 
+  "faltas_con_aviso": "52", 
+  "faltas_sin_aviso": "4", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "32", 
+  "nombre": "Abreu, Sergio"
+ }, 
+ {
+  "asistencias": "274", 
+  "citaciones": "276", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "26", 
+  "nombre": "Agazzi, Ernesto"
+ }, 
+ {
+  "asistencias": "6", 
+  "citaciones": "8", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Alonso, Ver\u00f3nica"
+ }, 
+ {
+  "asistencias": "6", 
+  "citaciones": "6", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Alvarez L\u00f3pez, Pablo"
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Amaro Cedr\u00e9s, Juan Justo"
+ }, 
+ {
+  "asistencias": "276", 
+  "citaciones": "281", 
+  "faltas_con_aviso": "4", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "21", 
+  "nombre": "Amor\u00edn, Jos\u00e9"
+ }, 
+ {
+  "asistencias": "156", 
+  "citaciones": "157", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "9", 
+  "nombre": "Antognazza, Milton"
+ }, 
+ {
+  "asistencias": "256", 
+  "citaciones": "258", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "18", 
+  "no_citado_por_licencia": "24", 
+  "nombre": "Astori, Danilo"
+ }, 
+ {
+  "asistencias": "222", 
+  "citaciones": "224", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "78", 
+  "nombre": "Bar\u00e1ibar, Carlos"
+ }, 
+ {
+  "asistencias": "14", 
+  "citaciones": "18", 
+  "faltas_con_aviso": "4", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Barreiro Sabbia, Ambrosio Walter"
+ }, 
+ {
+  "asistencias": "20", 
+  "citaciones": "21", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Bartesaghi, Jorge T."
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Batistoni, Luis G."
+ }, 
+ {
+  "asistencias": "15", 
+  "citaciones": "16", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Battistoni, Julio"
+ }, 
+ {
+  "asistencias": "5", 
+  "citaciones": "5", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Bayardi, Jos\u00e9"
+ }, 
+ {
+  "asistencias": "14", 
+  "citaciones": "15", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Bentancor, Juan Jos\u00e9"
+ }, 
+ {
+  "asistencias": "23", 
+  "citaciones": "23", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Beramendi, Carmen"
+ }, 
+ {
+  "asistencias": "3", 
+  "citaciones": "3", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Berterreche, Andr\u00e9s"
+ }, 
+ {
+  "asistencias": "2", 
+  "citaciones": "2", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Bianchi, Eleonora"
+ }, 
+ {
+  "asistencias": "3", 
+  "citaciones": "4", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Bonomi, Eduardo"
+ }, 
+ {
+  "asistencias": "223", 
+  "citaciones": "224", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "78", 
+  "nombre": "Bordaberry Herr\u00e1n, Juan Pedro"
+ }, 
+ {
+  "asistencias": "3", 
+  "citaciones": "3", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Brenta, Eduardo"
+ }, 
+ {
+  "asistencias": "5", 
+  "citaciones": "5", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Camy Antognazza, Carlos Daniel"
+ }, 
+ {
+  "asistencias": "46", 
+  "citaciones": "48", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Cardoso, Germ\u00e1n"
+ }, 
+ {
+  "asistencias": "13", 
+  "citaciones": "13", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Cardoso, Jos\u00e9 Carlos"
+ }, 
+ {
+  "asistencias": "240", 
+  "citaciones": "272", 
+  "faltas_con_aviso": "32", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "30", 
+  "nombre": "Chiruchi, Juan Antonio"
+ }, 
+ {
+  "asistencias": "70", 
+  "citaciones": "70", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Clavijo, Hebert"
+ }, 
+ {
+  "asistencias": "79", 
+  "citaciones": "81", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "9", 
+  "nombre": "Conde, Roberto"
+ }, 
+ {
+  "asistencias": "263", 
+  "citaciones": "268", 
+  "faltas_con_aviso": "3", 
+  "faltas_sin_aviso": "2", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "34", 
+  "nombre": "Couriel, Alberto"
+ }, 
+ {
+  "asistencias": "17", 
+  "citaciones": "21", 
+  "faltas_con_aviso": "4", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "7", 
+  "nombre": "Coutinho Rodr\u00edguez, Germ\u00e1n"
+ }, 
+ {
+  "asistencias": "235", 
+  "citaciones": "270", 
+  "faltas_con_aviso": "33", 
+  "faltas_sin_aviso": "2", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "32", 
+  "nombre": "Da Rosa, Eber"
+ }, 
+ {
+  "asistencias": "171", 
+  "citaciones": "171", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "24", 
+  "nombre": "Dalm\u00e1s, Susana"
+ }, 
+ {
+  "asistencias": "11", 
+  "citaciones": "11", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "de Haedo, Javier"
+ }, 
+ {
+  "asistencias": "6", 
+  "citaciones": "8", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "2", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Dom\u00ednguez, Juan Jos\u00e9"
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Duhalde, Miguel"
+ }, 
+ {
+  "asistencias": "14", 
+  "citaciones": "14", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Echeverr\u00eda, Alejandro"
+ }, 
+ {
+  "asistencias": "2", 
+  "citaciones": "3", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Enciso Christiansen, Carlos"
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Fern\u00e1ndez Dobat, Eduardo"
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Fern\u00e1ndez Dom\u00ednguez, Gonzalo"
+ }, 
+ {
+  "asistencias": "55", 
+  "citaciones": "56", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Fern\u00e1ndez Farias, Eduardo"
+ }, 
+ {
+  "asistencias": "33", 
+  "citaciones": "35", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "49", 
+  "nombre": "Fern\u00e1ndez Huidobro, Eleuterio"
+ }, 
+ {
+  "asistencias": "39", 
+  "citaciones": "39", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "28", 
+  "nombre": "Fonticiella, Ram\u00f3n"
+ }, 
+ {
+  "asistencias": "4", 
+  "citaciones": "4", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Galichio, Antonio"
+ }, 
+ {
+  "asistencias": "81", 
+  "citaciones": "82", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Gallicchio Queirolo, Antonio"
+ }, 
+ {
+  "asistencias": "246", 
+  "citaciones": "276", 
+  "faltas_con_aviso": "25", 
+  "faltas_sin_aviso": "5", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "26", 
+  "nombre": "Gallinal, Francisco"
+ }, 
+ {
+  "asistencias": "229", 
+  "citaciones": "236", 
+  "faltas_con_aviso": "5", 
+  "faltas_sin_aviso": "2", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "28", 
+  "nombre": "Gallo Imperiale, Luis Jos\u00e9"
+ }, 
+ {
+  "asistencias": "78", 
+  "citaciones": "78", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Gamou, Carlos"
+ }, 
+ {
+  "asistencias": "34", 
+  "citaciones": "35", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Gandini, Jorge"
+ }, 
+ {
+  "asistencias": "13", 
+  "citaciones": "13", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Garc\u00eda, Javier"
+ }, 
+ {
+  "asistencias": "13", 
+  "citaciones": "20", 
+  "faltas_con_aviso": "4", 
+  "faltas_sin_aviso": "3", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Garc\u00eda Costa, Guillermo"
+ }, 
+ {
+  "asistencias": "2", 
+  "citaciones": "2", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Gargano, Reinaldo"
+ }, 
+ {
+  "asistencias": "43", 
+  "citaciones": "50", 
+  "faltas_con_aviso": "3", 
+  "faltas_sin_aviso": "4", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Guarino, Gustavo"
+ }, 
+ {
+  "asistencias": "242", 
+  "citaciones": "279", 
+  "faltas_con_aviso": "36", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "23", 
+  "nombre": "Heber, Luis Alberto"
+ }, 
+ {
+  "asistencias": "7", 
+  "citaciones": "8", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Iturralde Vi\u00f1as, Pablo"
+ }, 
+ {
+  "asistencias": "196", 
+  "citaciones": "233", 
+  "faltas_con_aviso": "35", 
+  "faltas_sin_aviso": "2", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "69", 
+  "nombre": "Lacalle  Herrera, Luis Alberto"
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Laguarda, Manuel"
+ }, 
+ {
+  "asistencias": "20", 
+  "citaciones": "20", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Lamorte, Aldo"
+ }, 
+ {
+  "asistencias": "2", 
+  "citaciones": "2", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Lara Gilene, Julio C."
+ }, 
+ {
+  "asistencias": "217", 
+  "citaciones": "238", 
+  "faltas_con_aviso": "20", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "64", 
+  "nombre": "Larra\u00f1aga, Jorge"
+ }, 
+ {
+  "asistencias": "48", 
+  "citaciones": "48", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Lescano, H\u00e9ctor"
+ }, 
+ {
+  "asistencias": "49", 
+  "citaciones": "49", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "L\u00f3pez Goldaracena, Oscar"
+ }, 
+ {
+  "asistencias": "179", 
+  "citaciones": "187", 
+  "faltas_con_aviso": "8", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "115", 
+  "nombre": "Lorier, Eduardo"
+ }, 
+ {
+  "asistencias": "27", 
+  "citaciones": "36", 
+  "faltas_con_aviso": "5", 
+  "faltas_sin_aviso": "4", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Malaquina Ugolini, Eduardo"
+ }, 
+ {
+  "asistencias": "43", 
+  "citaciones": "43", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Mart\u00ednez Huelmo, Rub\u00e9n"
+ }, 
+ {
+  "asistencias": "248", 
+  "citaciones": "251", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "51", 
+  "nombre": "Mart\u00ednez Villaamil, Daniel Carlos"
+ }, 
+ {
+  "asistencias": "26", 
+  "citaciones": "26", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Mezzera, Eduardo"
+ }, 
+ {
+  "asistencias": "240", 
+  "citaciones": "244", 
+  "faltas_con_aviso": "3", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "58", 
+  "nombre": "Michelini, Rafael"
+ }, 
+ {
+  "asistencias": "8", 
+  "citaciones": "9", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Montaner, Martha"
+ }, 
+ {
+  "asistencias": "53", 
+  "citaciones": "57", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "3", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Montiel, Daniel"
+ }, 
+ {
+  "asistencias": "13", 
+  "citaciones": "13", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Montiel, Daniel"
+ }, 
+ {
+  "asistencias": "260", 
+  "citaciones": "292", 
+  "faltas_con_aviso": "29", 
+  "faltas_sin_aviso": "3", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "10", 
+  "nombre": "Moreira, Carlos"
+ }, 
+ {
+  "asistencias": "237", 
+  "citaciones": "249", 
+  "faltas_con_aviso": "7", 
+  "faltas_sin_aviso": "5", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "51", 
+  "nombre": "Moreira, Constanza"
+ }, 
+ {
+  "asistencias": "19", 
+  "citaciones": "19", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Morelli Colombres, Le\u00f3n"
+ }, 
+ {
+  "asistencias": "58", 
+  "citaciones": "58", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Morodo D\u00edaz, Walter Domingo"
+ }, 
+ {
+  "asistencias": "24", 
+  "citaciones": "24", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Muguruza, Eduardo"
+ }, 
+ {
+  "asistencias": "230", 
+  "citaciones": "235", 
+  "faltas_con_aviso": "5", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "66", 
+  "nombre": "Nin Novoa, Rodolfo"
+ }, 
+ {
+  "asistencias": "17", 
+  "citaciones": "18", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Obispo, Ruben"
+ }, 
+ {
+  "asistencias": "16", 
+  "citaciones": "16", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Obispo, Ruben"
+ }, 
+ {
+  "asistencias": "291", 
+  "citaciones": "294", 
+  "faltas_con_aviso": "3", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "8", 
+  "nombre": "Pasquet Iribarne, Ope"
+ }, 
+ {
+  "asistencias": "20", 
+  "citaciones": "22", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pe\u00f1a Fern\u00e1ndez, Daniel"
+ }, 
+ {
+  "asistencias": "243", 
+  "citaciones": "275", 
+  "faltas_con_aviso": "27", 
+  "faltas_sin_aviso": "5", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "27", 
+  "nombre": "Penad\u00e9s, Gustavo"
+ }, 
+ {
+  "asistencias": "15", 
+  "citaciones": "16", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pereyra, Anibal"
+ }, 
+ {
+  "asistencias": "23", 
+  "citaciones": "23", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pereyra, An\u00edbal"
+ }, 
+ {
+  "asistencias": "4", 
+  "citaciones": "4", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pereyra, Jos\u00e9 Mar\u00eda"
+ }, 
+ {
+  "asistencias": "34", 
+  "citaciones": "39", 
+  "faltas_con_aviso": "5", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pi\u00f1eyr\u00faa Olmos, Ana L\u00eda"
+ }, 
+ {
+  "asistencias": "3", 
+  "citaciones": "4", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pintado, Enrique"
+ }, 
+ {
+  "asistencias": "69", 
+  "citaciones": "70", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Pintos, Alicia"
+ }, 
+ {
+  "asistencias": "3", 
+  "citaciones": "3", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Planch\u00f3n, Ricardo"
+ }, 
+ {
+  "asistencias": "1", 
+  "citaciones": "1", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Planch\u00f3n Mal\u00e1n, Ricardo"
+ }, 
+ {
+  "asistencias": "5", 
+  "citaciones": "7", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Riani Baranzano, Jorge"
+ }, 
+ {
+  "asistencias": "5", 
+  "citaciones": "7", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Rodr\u00edguez, Ambrosio"
+ }, 
+ {
+  "asistencias": "9", 
+  "citaciones": "9", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Rodr\u00edguez, Hyara"
+ }, 
+ {
+  "asistencias": "0", 
+  "citaciones": "12", 
+  "faltas_con_aviso": "9", 
+  "faltas_sin_aviso": "3", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Rodr\u00edguez, Ruben E."
+ }, 
+ {
+  "asistencias": "2", 
+  "citaciones": "7", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "3", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Rodr\u00edguez L\u00f3pez, Ruben"
+ }, 
+ {
+  "asistencias": "55", 
+  "citaciones": "56", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Rondeau, An\u00edbal"
+ }, 
+ {
+  "asistencias": "118", 
+  "citaciones": "119", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "86", 
+  "nombre": "Rosadilla, Luis"
+ }, 
+ {
+  "asistencias": "245", 
+  "citaciones": "256", 
+  "faltas_con_aviso": "10", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "46", 
+  "nombre": "Rubio, Enrique"
+ }, 
+ {
+  "asistencias": "27", 
+  "citaciones": "34", 
+  "faltas_con_aviso": "4", 
+  "faltas_sin_aviso": "3", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Sanabria, Wilson"
+ }, 
+ {
+  "asistencias": "290", 
+  "citaciones": "301", 
+  "faltas_con_aviso": "10", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "1", 
+  "nombre": "Saravia, Jorge"
+ }, 
+ {
+  "asistencias": "10", 
+  "citaciones": "10", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Scrigna, Fernando"
+ }, 
+ {
+  "asistencias": "5", 
+  "citaciones": "6", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Silveira, Julio C."
+ }, 
+ {
+  "asistencias": "223", 
+  "citaciones": "236", 
+  "faltas_con_aviso": "12", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "45", 
+  "nombre": "Solari Damonte, Alfredo"
+ }, 
+ {
+  "asistencias": "4", 
+  "citaciones": "4", 
+  "faltas_con_aviso": "0", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Souza, Juan C."
+ }, 
+ {
+  "asistencias": "265", 
+  "citaciones": "268", 
+  "faltas_con_aviso": "3", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "31", 
+  "nombre": "Tajam, H\u00e9ctor"
+ }, 
+ {
+  "asistencias": "251", 
+  "citaciones": "255", 
+  "faltas_con_aviso": "4", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "1", 
+  "no_citado_por_licencia": "46", 
+  "nombre": "Topolansky, Luc\u00eda"
+ }, 
+ {
+  "asistencias": "40", 
+  "citaciones": "42", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "1", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "0", 
+  "nombre": "Umansky, Isaac"
+ }, 
+ {
+  "asistencias": "249", 
+  "citaciones": "252", 
+  "faltas_con_aviso": "1", 
+  "faltas_sin_aviso": "2", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "50", 
+  "nombre": "Viera Duarte, Tabar\u00e9"
+ }, 
+ {
+  "asistencias": "157", 
+  "citaciones": "159", 
+  "faltas_con_aviso": "2", 
+  "faltas_sin_aviso": "0", 
+  "no_citado_por_estar_ejerciendo_presidencia": "0", 
+  "no_citado_por_licencia": "52", 
+  "nombre": "Xavier, M\u00f3nica"
+ }
+]

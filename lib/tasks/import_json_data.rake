@@ -63,6 +63,30 @@ def create_comissions(data_hash)
   end
 end
 
+task :importar_asistencias_resumen => :environment  do
+  file = File.read('data/asistencias_senadores.json')
+  data_hash = JSON.parse(file)
+  set_attendance_information(data_hash)
+
+  file = File.read('data/asistencias_diputados.json')
+  data_hash = JSON.parse(file)
+  set_attendance_information(data_hash)
+end
+
+
+def set_attendance_information(data_hash)
+  data_hash.each do |attendance_data|
+    last_name, first_name = clean_name(attendance_data['nombre']).split(', ')
+    legislator = Legislator.find_by_first_name_and_last_name(first_name.try(:strip), last_name.try(:strip))
+    if legislator
+      legislator.citations_count = attendance_data['citaciones']
+      legislator.attendances_count = attendance_data['asistencias']
+      legislator.save!
+    end
+  end
+
+end
+
 
 def clean_name(text)
   text.downcase.

@@ -8,6 +8,7 @@ class Legislator < ActiveRecord::Base
 
   scope :in_diputados, -> { where(chamber: CHAMBERS[:diputados]) }
   scope :in_senadores, -> { where(chamber: CHAMBERS[:senadores]) }
+  scope :by_last_name, -> { order('last_name ASC')}
 
   def full_name
     "#{first_name} #{last_name}"

@@ -1,13 +1,20 @@
-<!-- #### FICHAS DE PARLAMENTOS #### -->
-<div class="small-12 columns fichas">
-
-  <%= @legislators.each_slice(3) do |legislators_row| %>
-      <div clas="row">
-        <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[0] }  %>
-        <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[1] }  %>
-        <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[2] }  %>
+<% if @legislators.any? %>
+    <div class="small-12 columns fichas">
+      <%= @legislators.each_slice(3) do |legislators_row| %>
+          <div clas="row">
+            <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[0] }  %>
+            <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[1] }  %>
+            <%= render partial: 'shared/legislator_data', locals: { legislator: legislators_row[2] }  %>
+          </div>
+      <% end %>
+    </div>
+<% else %>
+    <div class="small-12 columns fichas">
+      <div class="row">
+        <div class="large-12 columns ficha">
+          <p class="no_data">No se encontraron resultados.</p>
+        </div>
       </div>
-  <% end %>
 
-
-</div>
+    </div>
+<% end %>

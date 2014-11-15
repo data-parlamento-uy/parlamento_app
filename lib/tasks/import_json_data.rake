@@ -11,7 +11,8 @@ task :importar_legisladores => :environment  do
       chamber: 'S',
       email: senador_data['email'],
       picture_url: senador_data['foto'],
-      political_party: PoliticalParty.find_by_name(senador_data['partido'])
+      political_party: PoliticalParty.find_by_name(senador_data['partido']),
+      is_president: senador_data['titulo'].present?
     )
   end
 
@@ -28,6 +29,8 @@ task :importar_legisladores => :environment  do
         political_party: PoliticalParty.find_by_name(diputado_data['partido']),
         state: diputado_data['departamento']
     )
+
+
   end
 end
 

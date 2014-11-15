@@ -18,7 +18,7 @@ class Legislator < ActiveRecord::Base
     if chamber == CHAMBERS[:diputados]
       "Diputado por #{state}"
     else
-      "Senador"
+      is_president ? 'Presidente Senadores y A.General' : "Senador"
     end
   end
 
@@ -41,6 +41,10 @@ class Legislator < ActiveRecord::Base
 
   def attendance
     attendances_count * 100 / citations_count
+  end
+
+  def salary
+    is_president ? '246.368' : '147.838'
   end
 
   def self.search_by_name(query)

@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20141115182822) do
+ActiveRecord::Schema.define(version: 20141115200620) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -38,6 +38,7 @@ ActiveRecord::Schema.define(version: 20141115182822) do
     t.string  "state"
     t.integer "citations_count"
     t.integer "attendances_count"
+    t.boolean "is_president",       default: false
   end
 
   create_table "parliament_sessions", force: true do |t|

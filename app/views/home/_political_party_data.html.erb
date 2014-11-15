@@ -1,0 +1,52 @@
+<div class="medium-6 columns">
+  <div class="ficha">
+    <div class="bandera"><%= image_tag left_flag_image(political_party) %></div>
+    <div class="row titulo-fichas">
+      <div class="small-6 columns text-center">
+        <h4><%= political_party.pretty_name.upcase %></h4>
+      </div>
+      <div class="small-6 columns text-center">
+        <h6>DEPTOS. REPRESENTADOS</h6>
+      </div>
+    </div>
+    <div class="row">
+      <div class="small-6 columns">
+        <div class="row">
+          <div class="row">
+            <div class="small-5 small-offset-1 columns"><p class="valor-referencia"><%= political_party.senadores_count %></p></div>
+            <div class="small-6 columns"><p class="valor-referencia"><%= political_party.diputados_count %></p></div>
+          </div>
+          <div class="row">
+            <div class="small-5 small-offset-1 columns"><p class="cargo-referencia">SENADORES</p></div>
+            <div class="small-6 columns"><p class="cargo-referencia">DIPUTADOS</p></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="row">
+            <div class="small-5 small-offset-1 columns"><p class="valor-referencia">15%</p></div>
+            <div class="small-6 columns"><p class="valor-referencia">-</p></div>
+          </div>
+          <div class="row">
+            <div class="small-5 small-offset-1 columns"><p class="cargo-referencia">ASISTENCIAS</p></div>
+            <div class="small-6 columns"><p class="cargo-referencia">INICIATIVAS</p></div>
+          </div>
+        </div>
+      </div>
+
+
+
+      <div class="small-6 columns ">
+        <% political_party.related_states.each_slice(4) do |states_list|%>
+            <div class="row">
+                <% states_list.each do |state| %>
+                  <div class="small-3 columns <%= 'end' if states_list.last == political_party.related_states.last %>">
+                    <p class="deptos"><%= state_abbr(state).upcase %></p>
+                  </div>
+                <% end %>
+            </div>
+        <% end %>
+
+      </div>
+    </div>
+  </div>
+</div>

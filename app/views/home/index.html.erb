@@ -1,8 +1,8 @@
 <!-- #### HEADER #### -->
 <div class="row header text-center">
   <div class="large-12 columns">
-    <h1>QUÉ ES ÁGORA</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. </p>
+    <h1>INFORMAR. CONTROLAR. INVOLUCRAR.</h1>
+    <p>Ágora es una aplicación web que permite acceder a información sobre lo que sucede en el parlamento uruguayo. Reúne datos estadísticos individuales y generales e invita a discutir los temas que componen la agenda, convirtiéndose así en una herramienta de control ciudadano.</p>
   </div>
 </div>
 
@@ -23,12 +23,12 @@
           <div class="row"><p class="asistencia-referencia">asistencia</p></div>
         </div>
         <div class="small-6 columns">
-          <div class="row"><p class="valor-referencia">1234</p></div>
+          <div class="row"><p class="valor-referencia">-</p></div>
           <div class="row"><p class="asistencia-referencia">iniciativas</p></div>
         </div>
       </div>
       <hr>
-      <div class="row partido-referencia">
+      <div class="row partido-referencia partido_frente_amplio">
         <div class="small-2 columns text-right">
           <svg version="1.1" id="Layer_12" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                width="46px" height="46px" viewBox="0 0 46 46" enable-background="new 0 0 46 46" xml:space="preserve">
@@ -41,16 +41,7 @@
             <circle fill="url(#SVGID_2_)" cx="23" cy="23" r="23"/>
           </svg>
         </div>
-        <div class="small-10 columns end">
-          <div class="row">
-            <div class="small-6 columns"><p class="valor-referencia">15</p></div>
-            <div class="small-6 columns"><p class="valor-referencia">50</p></div>
-          </div>
-          <div class="row">
-            <div class="small-6 columns"><p class="cargo-referencia">SENADORES</p></div>
-            <div class="small-6 columns"><p class="cargo-referencia">DIPUTADOS</p></div>
-          </div>
-        </div>
+        <%= render partial: 'political_party_composition_data', locals: { political_party: PoliticalParty.find_by_name('partido frente amplio') } %>
       </div>
       <hr>
       <div class="row partido-referencia">
@@ -64,16 +55,7 @@
             <circle fill="url(#SVGID_1_)" cx="23" cy="23" r="23"/>
           </svg>
         </div>
-        <div class="small-10 columns end">
-          <div class="row">
-            <div class="small-6 columns"><p class="valor-referencia">9</p></div>
-            <div class="small-6 columns"><p class="valor-referencia">30</p></div>
-          </div>
-          <div class="row">
-            <div class="small-6 columns"><p class="cargo-referencia">SENADORES</p></div>
-            <div class="small-6 columns"><p class="cargo-referencia">DIPUTADOS</p></div>
-          </div>
-        </div>
+        <%= render partial: 'political_party_composition_data', locals: { political_party: PoliticalParty.find_by_name('partido nacional') } %>
       </div>
       <hr>
       <div class="row partido-referencia">
@@ -83,16 +65,7 @@
             <circle fill="#F37D7C" cx="23" cy="23" r="23"/>
           </svg>
         </div>
-        <div class="small-10 columns end">
-          <div class="row">
-            <div class="small-6 columns"><p class="valor-referencia">5</p></div>
-            <div class="small-6 columns"><p class="valor-referencia">18</p></div>
-          </div>
-          <div class="row">
-            <div class="small-6 columns"><p class="cargo-referencia">SENADORES</p></div>
-            <div class="small-6 columns"><p class="cargo-referencia">DIPUTADOS</p></div>
-          </div>
-        </div>
+        <%= render partial: 'political_party_composition_data', locals: { political_party: PoliticalParty.find_by_name('partido colorado') } %>
       </div>
       <hr>
       <div class="row partido-referencia">
@@ -102,16 +75,7 @@
             <circle fill="#b2799d" cx="23" cy="23" r="23"/>
           </svg>
         </div>
-        <div class="small-10 columns end">
-          <div class="row">
-            <div class="small-6 columns"><p class="valor-referencia">0</p></div>
-            <div class="small-6 columns"><p class="valor-referencia">2</p></div>
-          </div>
-          <div class="row">
-            <div class="small-6 columns"><p class="cargo-referencia">SENADORES</p></div>
-            <div class="small-6 columns"><p class="cargo-referencia">DIPUTADOS</p></div>
-          </div>
-        </div>
+        <%= render partial: 'political_party_composition_data', locals: { political_party: PoliticalParty.find_by_name('partido independiente') } %>
       </div>
       <!--
                       <hr>

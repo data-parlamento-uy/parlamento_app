@@ -14,4 +14,9 @@ class LegislatorsController < ApplicationController
     render :index
   end
 
+  def search
+    query = params[:query]
+    @legislators = Legislator.search_by_name(query)
+  end
+
 end

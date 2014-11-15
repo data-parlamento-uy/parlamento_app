@@ -5,6 +5,7 @@ Rails.application.routes.draw do
     collection do
       get 'diputados'
       get 'senadores'
+      get 'search'
     end
   end
 

@@ -41,4 +41,8 @@ class Legislator < ActiveRecord::Base
   def attendance
     attendances_count * 100 / citations_count
   end
+
+  def self.search_by_name(query)
+    Legislator.where("first_name like :query OR last_name like :query", query: "%#{query}%")
+  end
 end

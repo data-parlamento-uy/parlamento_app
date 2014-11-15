@@ -18,3 +18,20 @@
 //= require data
 //= require legislators
 //= require sessions
+
+function search(){
+  var query = $('#search').val();
+  if (query.length > 2){
+     document.location.href = '/legislators/search?query=' + query
+  }
+}
+
+
+$('#search').keypress(function(e) {
+    if(e.which == 13) {
+        search();
+    }
+});
+
+$('#search_button').click(function(e) { search();} );
+

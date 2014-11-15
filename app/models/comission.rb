@@ -23,7 +23,7 @@ class Comission < ActiveRecord::Base
       when 'transporte y obras públicas' then ['transporte']
       when 'presupuesto', 'presupuestos', 'hacienda', 'hacienda y presupuesto' then ['economia']
       when 'derechos humanos', /poblaci.n/, 'derechos humanos y peticiones', 'seguridad social' then ['sociales']
-      when 'transporte' then ['tranporte']
+      when 'transporte' then ['transporte']
       when 'turismo' then ['turismo']
       when 'legislacion del trabajo' then ['trabajo']
       when /deporte/ then ['deporte']

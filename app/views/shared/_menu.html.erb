@@ -9,7 +9,7 @@
         <li><%= link_to 'parlamento', legislators_path, class: class_for_menu_link('legislators', controller_name) %></li>
         <li><%= link_to 'agenda', sessions_path, class: class_for_menu_link('sessions', controller_name) %></li>
         <li><%= link_to 'comisiones', comissions_path, class: class_for_menu_link('comissions', controller_name) %></li>
-        <li><a href="#"><%= image_tag 'lupa.png', id: "search_button" %><input id="search" name="query" type="text" placeholder="buscar legislador" value="<%= params[:query] %>"></a></li>
+        <li><a href="#"><%= image_tag 'lupa.png', id: "search_button" %><input title="Buscar legislador" id="search" name="query" type="text" placeholder="buscar" value="<%= params[:query] %>"></a></li>
         <li></li>
       </ul>
     </div>

@@ -18,6 +18,7 @@ $(function() {
                 }
 
             },
+
             caldata : codropsEvents,
             displayWeekAbbr : true
         } ),

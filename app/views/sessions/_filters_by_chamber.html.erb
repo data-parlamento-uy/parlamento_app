@@ -1,0 +1,5 @@
+<ul class="right">
+<li><%= link_to 'asamblea general', sessions_path, class: class_for_submenu_link('A', @selected_chamber) %></li>
+<li><%= link_to 'senadores', senadores_sessions_path, class: class_for_submenu_link('S', @selected_chamber) %></li>
+<li><%= link_to 'diputados', diputados_sessions_path, class: class_for_submenu_link('D', @selected_chamber) %></li>
+<ul>

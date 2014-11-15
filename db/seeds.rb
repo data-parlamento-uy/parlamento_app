@@ -7,3 +7,5 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 PoliticalParty.load_seeds
+
+ParliamentSession.load_seeds

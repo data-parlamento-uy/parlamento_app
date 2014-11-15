@@ -2,11 +2,7 @@
   <div class="large-5 large-offset-6">
     <hr>
     <div class="button-group ">
-      <ul class="right">
-        <li class="boton margen-izquierda">asamblea general</li>
-        <li class="boton margen-izquierda">senadores</li>
-        <li class="boton margen-izquierda">diputados</li>
-      </ul>
+      <%= render partial: 'filters_by_chamber' %>
     </div>
   </div>
 </div>
@@ -31,57 +27,29 @@
             </div>
           </div>
         </section>
-        <h4>TEMAS DEL DÍA</h4>
-        <ul>
-          <hr>
-          <li>Tema del día 1</li>
-          <hr>
-          <li>Tema del día 2</li>
-          <hr>
-          <li>Tema del día 3</li>
-          <hr>
-          <li>Tema del día 4</li>
-          <hr>
-          <li>Tema del día 5</li>
-        </ul>
+
+        <% if @session %>
+            <h4>TEMAS DEL DÍA</h4>
+            <ul>
+              <% @session.topics.each do |topic| %>
+                <hr>
+                <li><%= link_to topic.name, session_path(id: @session.id, topic_id: topic.id) %></li>
+              <% end %>
+            </ul>
+       <% end %>
       </div>
     </div>
     <div class="medium-8 end columns text-center">
-      <h3 class="text-center">TEMAS DEL DÍA 8 DE NOVIEMBRE, 2014</h3>
+      <h3 class="text-center"><%= l(@date, format: "TEMAS DEL DÍA %d DE %B, %Y").upcase %></h3>
       <hr>
-      <h4 class="medium-8 columns small-centered">LOREM</h4>
-      <p>Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae </p>
-      <ul class="medium-2 columns small-centered ranking">
-        <li class="medium-6 columns text-center gusta"></li>
-        <li class="medium-6 columns text-center no-gusta"></li>
-      </ul>
-      <br/>
-      <form class="small-centered">
-        <fieldset>
-          <legend>Justificá tus ideas</legend>
-
-          <label class="medium-6 columns">
-            <input type="text" placeholder="*Nombre" class="medium-2 columns">
-          </label>
-          <label class="medium-6 columns">
-            <input type="text" placeholder="*Correo electrónico" class="medium-2 columns">
-          </label>
-          <label>
-            <input type="text" placeholder="Pienso que esta ley..." class="columns">
-          </label>
-          <div class="button">enviar</div>
-        </fieldset>
-      </form>
+      <% if @session %>
+        <%= render partial: 'topic', locals: { topic: @topic } %>
+      <% else %>
+        <p>No hubo actividad el día de la fecha</p>
+      <% end %>
     </div>
   </div>
 </div>
-<!-- #### FICHAS DE PARLAMENTOS #### -->
-<div class="small-12 columns fichas">
-  <ul class="medium-12 button-group text-center margen-inferior asistencia">
-    <li class="boton medium-2 text-center">TODOS</li>
-    <li class="boton medium-2 text-center">ASISITIERON</li>
-    <li class="boton medium-2 text-center">NO ASISTIERON</li>
-  </ul>
-  <div clas="row ">
-  </div>
-</div>
+
+
+<%= render partial: 'calendar_data' %>

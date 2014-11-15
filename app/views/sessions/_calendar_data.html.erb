@@ -1,0 +1,7 @@
+<script>
+    var codropsEvents = { };
+    <% @sessions.each do |session| %>
+        codropsEvents['<%= session.date.strftime('%m-%d-%Y') %>']
+                = '<%= link_to 'Ver detalles', session_path(session) %>';
+    <% end %>
+</script>

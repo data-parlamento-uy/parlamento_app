@@ -26,7 +26,6 @@
           <% comission_list.each do |comission| %>
               <% link_class = current_comission == comission.id ? 'active' : '' %>
               <li><%= link_to pretty_text(comission.name), comission_path(comission, type: params[:type]), class: link_class %></li>
-                <%= comission.categories %>
           <% end %>
         </ul>
       </div>

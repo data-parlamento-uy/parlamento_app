@@ -16,6 +16,11 @@ Rails.application.routes.draw do
     end
   end
 
-  resources :sessions, only: [:index]
+  resources :sessions, only: [:index, :show] do
+    collection do
+      get 'diputados'
+      get 'senadores'
+    end
+  end
 end
 
